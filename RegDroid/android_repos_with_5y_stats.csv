@@ -1,0 +1,1834 @@
+﻿owner,repo,full_name,html_url,,,,stars,forks,language,created_at,updated_at,default_branch,zipball_url,apk_release_count,latest_apk_date_utc,fdroid_in_readme,has_manifest,default_branch.1,manifest_paths,is_verify_gp,downloads,rate,parsed_rate,apk_release_count,latest_apk_date_utc,fdroid_pkg,fdroid_apk_count,category,description,release_3y_total,release_3y_latest,release_3y_apk_total,release_3y_apk_latest,tag_3y_total,tag_3y_latest,tag_3y_apk_total,tag_3y_apk_latest
+AnySoftKeyboard,AnySoftKeyboard,AnySoftKeyboard/AnySoftKeyboard,https://github.com/AnySoftKeyboard/AnySoftKeyboard,keyboard,keyboard,keyboard,3098,886,Java,2012-04-18T12:38:01Z,2025-09-29T09:05:19Z,main,https://api.github.com/repos/AnySoftKeyboard/AnySoftKeyboard/zipball/main,5,2025-08-23T20:52:39+00:00,TRUE,TRUE,main,addons/base/apk/src/main/AndroidManifest.xml;addons/base/apk/src/test/AndroidManifest.xml;addons/base/src/main/AndroidManifest.xml;addons/languages/afrikaans_oss/pack/src/main/AndroidManifest.xml;addons/languages/arabic/pack/src/main/AndroidManifest.xml;addons/languages/armenian2/pack/src/main/AndroidManifest.xml;addons/languages/basque/pack/src/main/AndroidManifest.xml;addons/languages/belarusian/pack/src/main/AndroidManifest.xml;addons/languages/brazilian/pack/src/main/AndroidManifest.xml;addons/languages/bribri/pack/src/main/AndroidManifest.xml;addons/languages/bulgarian/pack/src/main/AndroidManifest.xml;addons/languages/catalan/pack/src/main/AndroidManifest.xml;addons/languages/coptic/pack/src/main/AndroidManifest.xml;addons/languages/croatian/pack/src/main/AndroidManifest.xml;addons/languages/czech/pack/src/main/AndroidManifest.xml;addons/languages/danish/pack/src/main/AndroidManifest.xml;addons/languages/dutch/pack/src/main/AndroidManifest.xml;addons/languages/english/pack/src/main/AndroidManifest.xml;addons/languages/esperanto/pack/src/main/AndroidManifest.xml;addons/languages/finnish/pack/src/main/AndroidManifest.xml,TRUE,1M+,3.6,3.6,5,2025-08-23T20:52:39+00:00,com.menny.android.anysoftkeyboard,3,Tools,"Any Soft Keyboard is an open-source, on-screen keyboard with multiple languages support with emphasis on privacy.
+This is one of the most customizable keyboards available.
+
+To activate: Launch 'AnySoftKeyboard Settings' App, and follow the instructions.
+
+Main features:
+* Multi languages keyboard support via external packages.
+* Completion dictionaries for multiple languages.
+* Also completes your typed words from you contacts names (Android 2.0+)!
+* And, learns your typing behavior to provide next-word prediction.
+* Multi-Touch support (as in, pressing SHIFT along with other characters).
+* Extension keyboard (swipe your finger all the way up out of the keyboard).
+* Voice Input support (Android 2.2+).
+* Compact/Phablet Mode.
+* Gesture support:
+** Experimental Gesture-Typing (enable in the Settings app).
+** Swipe left or right to switch layouts.
+** Swipe up to shift.
+** Swipe down to close the keyboard.
+* Theme support (comes with a few built-in skins, and more available in Play Store).
+* Night Mode: Quiet, Dark keyboard at night time (enable in the Settings app).
+* Power-Saving Mode: No vibrations, sound, suggestions and a dark theme (enable in the Settings app).
+* Build-in user dictionary words editor.
+* Build-in abbreviations dictionary: create shortcuts for words and sentences.
+* Utility keyboard (swipe up from space-bar):
+** Clipboard actions copy, paste, select-all, select selectively (long-press select and use arrow keys).
+** Voice input
+** Arrows
+* And many more features!
+
+Support at: https://github.com/AnySoftKeyboard",3,2025-08-23T20:52:39+00:00,3,2025-08-23T20:52:39+00:00,0,,0,
+markusfisch,ShaderEditor,markusfisch/ShaderEditor,https://github.com/markusfisch/ShaderEditor,code editor,code editor,code editor,1012,143,Java,2013-06-02T21:12:59Z,2025-09-20T20:51:04Z,master,https://api.github.com/repos/markusfisch/ShaderEditor/zipball/master,5,2025-08-26T19:15:49+00:00,TRUE,TRUE,master,app/src/main/AndroidManifest.xml,TRUE,50K+,4.8,4.8,5,2025-08-26T19:15:49+00:00,de.markusfisch.android.shadereditor,3,Tools,"This is open source:
+https://github.com/markusfisch/ShaderEditor
+
+* Live preview in background or on an extra screen
+* Syntax highlighting
+* Error highlighting
+* FPS display
+* Use any shader as live wallpaper
+* Exposure of hardware sensors
+* Support for wallpaper offset
+* Exposure of battery level
+* Supports multiple touches
+* Previous rendered frame in backbuffer texture
+* Import and use arbitrary textures
+* Disables rendering when battery is low
+
+Some devices limit GPU usage to consume less power when not plugged in. Always check the performance with the soft keyboard hidden and the power cord off. A shader should make at least around 30 fps to not slow down the UI if you intend to use it as a live wallpaper.
+
+Unfortunately error information is disabled on some devices (e.g. Huawei Ideos X3, Asus Transformer). Error highlighting/reporting is not possible on these devices.
+
+Please report bugs here:
+https://github.com/markusfisch/ShaderEditor/issues",33,2025-08-26T19:15:49+00:00,33,2025-08-26T19:15:49+00:00,0,,0,
+moneymanagerex,android-money-manager-ex,moneymanagerex/android-money-manager-ex,https://github.com/moneymanagerex/android-money-manager-ex,money manager,money manager,money manager,593,209,Java,2014-05-19T23:49:58Z,2025-09-29T11:14:33Z,master,https://api.github.com/repos/moneymanagerex/android-money-manager-ex/zipball/master,5,2025-09-20T07:54:44+00:00,TRUE,TRUE,master,app/src/main/AndroidManifest.xml,TRUE,10K+,4.6,4.6,5,2025-09-20T07:54:44+00:00,com.money.manager.ex.android,0,Finance,"A simple and easy-to-use application to manage personal finances, bank accounts, family budget, and more. The main goal is to provide a mobile implementation for an application we love to use on our desktop, Money Manager EX.
+
+Compatible with MMEX4Desktop 1.9 or upper.
+
+Permission: read SMS for new feature for SMS
+We remove SMS automation
+
+Long Description
+Money Manager Ex is a free, Open Source, cross-platform, easy-to-use personal finance software. It primarily helps organize one's finances and keeps track of where, when and how the money flows. It is a great tool to get a bird's eye view of your financial worth.
+
+Money Manager Ex includes all the basic features that most users would want to see in a personal finance application. The design goals are focus on simplicity and user-friendliness - something one can use everyday.
+
+Financial management can be complicated if there is no clear understanding of how much money we are receiving or spending. The first step towards financial stability is to maintain good financial records: it's only when we have a clear understanding of where our money goes, that we can make an informed decision of where to cut back on expenses. There is no right or wrong answer to spending money but personal finance software will help you analyze the financial data and give a better insight into what is going on. If you have started thinking of using Personal finance software, you are well on your way to making every dollar count.
+
+☆ ACCOUNTS AND CURRENCIES Wizard to simplify creation of accounts and start using MMEX for Android. You have the flexibility of creating accounts in any of the multiple currencies available.
+
+☆ TRANSACTIONS Overview of all income and expenses: separate and highlight records with different statuses. Search, filter, and sort by any field to have a clear view of your accounts at any time.
+
+☆ PAYEES AND CATEGORIES Categories indicate the reason an expenditure is made or an income is received. Payees are the people or the institutions that give money or who are paid for goods and services.
+
+☆ RECURRING TRANSACTIONS Special transactions set up in order to have the transaction entered into the database at some future date. They generally occur at regular intervals based on a schedule.
+
+☆ BUDGETING Set up a budget for a year and/or a month. Then compare money spent versus actual budget with specific or custom reports. On Android we currently support a read-only view of the Budgets.
+
+☆ CROSS PLATFORM We provide builds for the most common operating systems: Windows, MacOS and Linux Ubuntu. It's possible to use it also on other OS building it directly from source code.
+
+☆ CLOUD SYNCHRONIZATION With cloud synchronization you can keep your expenses and income up-to-date on your PCs, notebooks, and all of your Android devices. Using common cloud storage providers, you can share your data with other family members.
+
+☆ MULTI-LANGUAGE If you want to join our translation team: https://crowdin.net/project/android-money-manager-ex and sign in.
+
+☆ CONTACT
+email: android@moneymanagerex.org
+Web: http://android.moneymanagerex.org/
+Forum: http://forum.moneymanagerex.org/?utm_campaign=Application_Android&utm_medium=PlayStore&utm_source=Website",93,2025-09-20T07:54:44+00:00,91,2025-09-20T07:54:44+00:00,0,,0,
+MarcusWolschon,osmeditor4android,MarcusWolschon/osmeditor4android,https://github.com/MarcusWolschon/osmeditor4android,map,map,map,421,95,Java,2015-03-21T07:25:43Z,2025-09-28T20:29:35Z,master,https://api.github.com/repos/MarcusWolschon/osmeditor4android/zipball/master,5,2025-09-14T14:53:46+00:00,TRUE,TRUE,master,src/androidTest/AndroidManifest.xml;src/debug/AndroidManifest.xml;src/main/AndroidManifest.xml,TRUE,50K+,4.3,4.3,5,2025-09-14T14:53:46+00:00,de.blau.android,3,Tools,"Vespucci is an advanced open source tool for editing OpenStreetMap data, it is not a map viewer or a navigation app. You will need  an OpenStreetMap account to use it .
+
+You can download the map data for a specific area and edit the map. After editing, you can upload it directly to the OSM servers.
+
+Any accidental change can be undone and all changes are listed for review before upload. Tag-autocompletion, JOSM compatible presets, links to the translated map-features pages and even auto-completing nearby street names help to find the right tags to use.
+
+We recommend disabling auto-updates for Vespucci so that you can upload your edits before app updates.
+
+More information and documentation can be found on vespucci.io and in the on-device help.
+
+Please do not report problems here or ask for support, see why we can't provide support and accept issues on the play store review section. You can  report issues  directly from the app without a github account or go directly to the issue tracker.
+
+OpenStreetMap, OSM and the magnifying glass logo are trademarks of the OpenStreetMap Foundation. The Vespucci app is not endorsed by or affiliated with the OpenStreetMap Foundation.",126,2025-09-14T14:53:46+00:00,106,2025-09-14T14:53:46+00:00,0,,0,
+M66B,FairEmail,M66B/FairEmail,https://github.com/M66B/FairEmail,email,email,email,3903,676,Java,2018-08-02T13:30:25Z,2025-09-29T11:50:09Z,master,https://api.github.com/repos/M66B/FairEmail/zipball/master,5,2025-09-30T05:49:34+00:00,TRUE,TRUE,master,app/src/main/AndroidManifest.xml,TRUE,1M+,4.9,4.9,5,2025-09-30T05:49:34+00:00,eu.faircode.email,3,Communication,"FairEmail is easy to set up and works with virtually all email providers, including Gmail, Outlook and Yahoo!
+
+FairEmail might be for you if you value your privacy.
+
+FairEmail is simple to use, but if you are looking for a very simple email app, FairEmail might not be the right choice.
+
+FairEmail is an email client only, so you need to bring your own email address. FairEmail is not a calendar/contact/task/note manager and cannot make you coffee.
+
+FairEmail does not support non-standard protocols, like Microsoft Exchange Web Services and Microsoft ActiveSync.
+
+Almost all features are free to use, but to maintain and support the app in the long term, not every feature can be for free. See below for a list of pro features.
+
+A lot of effort has gone into this mail app, which was developed to help you protect your privacy. If you have a question or problem, there is always support at marcel@faircode.eu.
+
+Main features
+
+* Fully featured
+* 100% open source
+* Privacy oriented
+* Unlimited accounts
+* Unlimited email addresses
+* Unified inbox (optionally accounts or folders)
+* Conversation threading
+* Two way synchronization
+* Push notifications
+* Offline storage and operations
+* Common text style options (size, color, lists, etc.)
+* Battery friendly
+* Low data usage
+* Small (<30 MB)
+* Material design (including dark/black theme)
+* Maintained and supported
+
+This app is deliberately minimalistic by design, so you can concentrate on reading and writing messages.
+
+This app starts a foreground service with a low-priority status bar notification to make sure you'll never miss new emails.
+
+Privacy features
+
+* Encryption/decryption supported (OpenPGP, S/MIME)
+* Reformat messages to prevent phishing
+* Confirm showing images to prevent tracking
+* Confirm opening links to prevent tracking and phishing
+* Attempt to recognize and disable tracking images
+* Warning if messages could not be authenticated
+
+Simple
+
+* Quick setup
+* Easy navigation
+* No bells and whistles
+* No distracting ""eye candy""
+
+Secure
+
+* No data storage on third-party servers
+* Using open standards (IMAP, POP3, SMTP, OpenPGP, S/MIME, etc.)
+* Safe message view (styling, scripting and unsafe HTML removed)
+* Confirm opening links, images and attachments
+* No special permissions required
+* No advertisements
+* No analytics and no tracking (error reporting via Bugsnag is opt-in)
+* Optional Android backup
+* No Firebase Cloud Messaging
+* FairEmail is an original work, not a fork or a clone
+
+Efficient
+
+* Fast and lightweight
+* IMAP IDLE (push messages) supported
+* Built with latest development tools and libraries
+
+Pro features
+
+All pro features are convenience or advanced features.
+
+* Account/identity/folder colors/avatars
+* Colored stars
+* Notification settings (sounds) per account/folder/sender (requires Android 8 Oreo)
+* Configurable notification actions
+* Snooze messages
+* Send messages after selected time
+* Synchronization scheduling
+* Reply templates
+* Accept/decline calendar invitations
+* Add message to calendar
+* Automatically generate vCard attachments
+* Filter rules
+* Automatic message classification
+* Search indexing
+* S/MIME sign/encrypt
+* Biometric/PIN authentication
+* Message list widget
+* Export settings
+
+Support
+
+If you have a question or problem, please check here first:
+https://github.com/M66B/FairEmail/blob/master/FAQ.md
+
+If you cannot find what you are looking for, please contact me at marcel+fairemail@faircode.eu, and I will try to help you.",921,2025-09-30T05:49:34+00:00,8,2025-09-30T05:49:34+00:00,0,,0,
+mastodon,mastodon-android,mastodon/mastodon-android,https://github.com/mastodon/mastodon-android,,,,1897,306,Java,2022-01-14T10:44:03Z,2025-09-28T13:52:28Z,master,https://api.github.com/repos/mastodon/mastodon-android/zipball/master,5,2025-09-24T16:50:31+00:00,TRUE,TRUE,master,mastodon/src/github/AndroidManifest.xml;mastodon/src/main/AndroidManifest.xml,TRUE,1M+,4.1,4.1,5,2025-09-24T16:50:31+00:00,org.joinmastodon.android,3,Social,"Mastodon is the best way to keep up with what’s happening. Follow anyone across the fediverse and see it all in chronological order. No algorithms, ads, or clickbait in sight.
+
+This is the official Android app for Mastodon. It is blazing fast and stunningly beautiful, designed to be not just powerful but also easy to use. In our app, you can:
+
+EXPLORE
+
+■ Discover new writers, journalists, artists, photographers, scientists and more
+■ See what’s happening in the world
+
+READ
+
+■ Keep up with people you care about in a chronological feed with no interruptions
+■ Follow hashtags to keep up with specific topics in real time
+
+CREATE
+
+■ Post to your followers or the whole world, with polls, high quality images and videos
+■ Participate in interesting conversations with other people
+
+CURATE
+
+■ Create lists of people to never miss a post
+■ Filter words or phrases to control what you do and don’t want to see
+
+AND MORE!
+
+■ A beautiful theme that adapts to your personalized color scheme, light or dark
+■ Share and scan QR codes to quickly exchange Mastodon profiles with others
+■ Login and switch between multiple accounts
+■ Get notified when a specific person posts with the bell button
+■ No spoilers! You can put your posts behind content warnings
+
+A POWERFUL PUBLISHING PLATFORM
+
+You no longer have to try and appease an opaque algorithm that decides if your friends are going to see what you posted. If they follow you, they’ll see it.
+
+If you publish it to the open web, it’s accessible on the open web. You can safely share links to Mastodon in the knowledge that anyone will be able to read them without logging in.
+
+Between threads, polls, high quality images, videos, audio, and content warnings, Mastodon offers plenty of ways to express yourself in a way that suits you.
+
+A POWERFUL READING PLATFORM
+
+We don’t need to show you ads, so we don’t need to keep you in our app. Mastodon has the richest selection of 3rd party apps and integrations so you can choose the experience that fits you best.
+
+Thanks to the chronological home feed, it’s easy to tell when you’ve caught up on all updates and can move on to something else.
+
+No need to worry that a misclick will ruin your recommendations forever. We don’t guess what you want to see, we let you control it.
+
+PROTOCOLS, NOT PLATFORMS
+
+Mastodon is not like a traditional social media platform, but is built on a decentralized protocol. You can sign up on our official server, or choose a 3rd party to host your data and moderate your experience.
+
+Thanks to the common protocol, no matter what you choose, you can communicate seamlessly with people on other Mastodon servers. But there’s more: With just one account, you can communicate with people from other fediverse platforms.
+
+Not happy with your choice? You can always switch to a different Mastodon server while taking your followers with you. For advanced users, you can even host your data on your own infrastructure, since Mastodon is open-source.
+
+NON-PROFIT IN NATURE
+
+Mastodon is a registered non-profit in the US and Germany. We are not motivated by extracting monetary value from the platform, but by what’s best for the platform.
+
+AS FEATURED IN: TIME, Forbes, Wired, The Guardian, CNN, The Verge, TechCrunch, Financial Times, Gizmodo, PCMAG.com, and more.",58,2025-10-01T10:17:48+00:00,58,2025-10-01T10:17:48+00:00,0,,0,
+thunderbird,thunderbird-android,thunderbird/thunderbird-android,https://github.com/thunderbird/thunderbird-android,email,email,email,12595,2624,Kotlin,2011-02-04T02:40:00Z,2025-09-29T11:24:23Z,main,https://api.github.com/repos/thunderbird/thunderbird-android/zipball/main,5,2025-09-30T18:41:35+00:00,TRUE,TRUE,main,app-common/src/main/AndroidManifest.xml;app-k9mail/src/debug/AndroidManifest.xml;app-k9mail/src/main/AndroidManifest.xml;app-thunderbird/src/beta/AndroidManifest.xml;app-thunderbird/src/daily/AndroidManifest.xml;app-thunderbird/src/debug/AndroidManifest.xml;app-thunderbird/src/main/AndroidManifest.xml;app-ui-catalog/src/main/AndroidManifest.xml;core/android/common/src/main/AndroidManifest.xml;core/android/network/src/main/AndroidManifest.xml;feature/account/oauth/src/main/AndroidManifest.xml;feature/funding/googleplay/src/debug/AndroidManifest.xml;feature/launcher/src/main/AndroidManifest.xml;feature/migration/provider/src/main/AndroidManifest.xml;feature/migration/qrcode/src/main/AndroidManifest.xml;feature/notification/impl/src/androidMain/AndroidManifest.xml;feature/settings/import/src/main/AndroidManifest.xml;feature/widget/message-list/src/main/AndroidManifest.xml;feature/widget/shortcut/src/main/AndroidManifest.xml;feature/widget/unread/src/main/AndroidManifest.xml,TRUE,100K+,4.2,4.2,5,2025-09-30T18:41:35+00:00,net.thunderbird.android.beta,3,Communication,"K-9 Mail is an open source email client that works with basically every email provider.
+
+Features
+
+* supports multiple accounts
+* Unified Inbox
+* privacy-friendly (no tracking whatsoever, only connects to your email provider)
+* automatic background synchronization or push notifications
+* local and server-side search
+* OpenPGP email encryption (PGP/MIME)
+
+Install the app ""OpenKeychain: Easy PGP"" to encrypt/decrypt your emails using OpenPGP.
+
+
+Support
+
+If you're having trouble with K-9 Mail, ask for help in our support forum at https://forum.k9mail.app
+
+
+Want to help?
+
+K-9 Mail is now part of the Thunderbird family and remains a community developed project. If you're interested in helping to improve the app, please join us! You can find our bug tracker, source code, and wiki at https://github.com/thunderbird/thunderbird-android
+We're always happy to welcome new developers, designers, documenters, translators, bug triagers and friends.",165,2025-09-30T18:41:35+00:00,165,2025-09-30T18:41:35+00:00,0,,0,
+nextcloud,android,nextcloud/android,https://github.com/nextcloud/android,cloud server manager,cloud server manager,cloud server manager,4879,1877,Kotlin,2016-06-06T21:23:36Z,2025-09-29T09:12:39Z,master,https://api.github.com/repos/nextcloud/android/zipball/master,5,2025-09-25T10:39:22+00:00,TRUE,TRUE,master,app/src/main/AndroidManifest.xml,TRUE,1M+,4.6,4.6,5,2025-09-25T10:39:22+00:00,org.jtb.alogcat,3,Productivity,"The Open Source Nextcloud Android app allows you to access all your files on your Nextcloud.
+
+Features:
+* Easy, modern interface
+* Upload your files to your Nextcloud server
+* Share your files with others
+* Keep your favorite files and folders synced
+* Instant Upload for photos and videos taken by your device
+* Multi-account support
+
+Please report all issues at https://github.com/nextcloud/android/issues and discuss this app at https://help.nextcloud.com ;-)
+
+New to Nextcloud? Nextcloud is a private file sync & share and communication server. It is fully open source and you can host it yourself or pay a company to do it for you. That way, you are in control of your photos, your calendar and contact data, your documents and everything else.
+
+Check out Nextcloud at https://nextcloud.com",123,2025-09-25T10:39:22+00:00,122,2025-09-25T10:39:22+00:00,0,,0,
+streetcomplete,StreetComplete,streetcomplete/StreetComplete,https://github.com/streetcomplete/StreetComplete,Map,Map,Map,4308,392,Kotlin,2016-07-02T10:44:04Z,2025-09-29T00:29:29Z,master,https://api.github.com/repos/streetcomplete/StreetComplete/zipball/master,5,2025-08-18T16:41:13+00:00,TRUE,TRUE,master,app/src/androidMain/AndroidManifest.xml,TRUE,50K+,4.8,4.8,5,2025-08-18T16:41:13+00:00,de.westnordost.streetcomplete,3,Travel & Local,"Help to improve the OpenStreetMap with StreetComplete!
+
+This app finds incomplete and extendable data in your vicinity and displays it on a map as markers. Each of those is solvable by answering a simple question to complete the info on site.
+
+The info you enter is then directly added to the OpenStreetMap in your name, without the need to use another editor.",156,2025-08-18T16:41:13+00:00,156,2025-08-18T16:41:13+00:00,0,,0,
+owntracks,android,owntracks/android,https://github.com/owntracks/android,Map,Map,Map,1560,493,Kotlin,2014-02-03T12:56:26Z,2025-09-29T10:09:50Z,master,https://api.github.com/repos/owntracks/android/zipball/master,5,2025-08-26T16:53:38+00:00,TRUE,TRUE,master,project/app/src/debug/AndroidManifest.xml;project/app/src/gms/AndroidManifest.xml;project/app/src/main/AndroidManifest.xml;project/app/src/oss/AndroidManifest.xml,TRUE,100K+,3.8,3.8,5,2025-08-26T16:53:38+00:00,org.owntracks.android,3,Travel & Local,"OwnTracks allows you to keep track of your own location. You can build your private location diary or share it with your family and friends. OwnTracks is open-source and uses open protocols for communication so you can be sure your data stays secure and private.
+
+For more information see our documentation (http://owntracks.org/booklet)",34,2025-08-26T16:53:38+00:00,34,2025-08-26T16:53:38+00:00,0,,0,
+openfoodfacts,openfoodfacts-androidapp,openfoodfacts/openfoodfacts-androidapp,https://github.com/openfoodfacts/openfoodfacts-androidapp,photo?,photo?,photo?,793,454,Kotlin,2015-05-06T18:09:55Z,2025-09-24T09:12:28Z,develop,https://api.github.com/repos/openfoodfacts/openfoodfacts-androidapp/zipball/develop,5,2018-03-02T19:20:22+00:00,TRUE,TRUE,develop,app/src/main/AndroidManifest.xml,TRUE,10K+,,,5,2018-03-02T19:20:22+00:00,org.openproductsfacts.scanner,3,Health & Fitness,"Open Beauty Facts is a cosmetic products database made by everyone, for everyone.
+
+You can use it to make better cosmetic choices, and as it is open data, anyone can re-use it for any purpose.
+
+Open Beauty Facts is a non-profit project developed by thousands of volunteers from around the world. You can start contributing by adding a product from your cosmetic cupboard, and we have lots of exciting projects you can contribute to in many different ways.
+
+Cosmetics additives, F.I.L. codes, CI-numbers, INCI (International Nomenclature Cosmetic Ingredients) ingredient list, allergens, packaging codes... Open Beauty Facts helps you to make sense of the fine print on products labels.
+
+We think it can be useful for people with skin conditions like acne, psoriasis, eczema… to make better cosmetic choices.
+
+Note: Open Beauty Facts is being built, the site and the application are based on Open Food Facts and changes will be made to take into account the specificities of cosmetics.
+
+Open Beauty Facts is also available on the web at https://world.openbeautyfacts.org
+Questions, feedback : contact@openfoodfacts.org",16,2023-04-06T19:24:46+00:00,0,,0,,0,
+getodk,collect,getodk/collect,https://github.com/getodk/collect,data manager?,data manager?,data manager?,746,1402,Kotlin,2015-08-04T23:21:33Z,2025-09-27T00:41:05Z,master,https://api.github.com/repos/getodk/collect/zipball/master,5,2025-09-24T18:45:50+00:00,TRUE,TRUE,master,analytics/src/main/AndroidManifest.xml;androidshared/src/main/AndroidManifest.xml;androidtest/src/main/AndroidManifest.xml;async/src/main/AndroidManifest.xml;audio-clips/src/main/AndroidManifest.xml;audio-recorder/src/main/AndroidManifest.xml;collect_app/src/debug/AndroidManifest.xml;collect_app/src/main/AndroidManifest.xml;crash-handler/src/main/AndroidManifest.xml;db/src/main/AndroidManifest.xml;draw/src/main/AndroidManifest.xml;entities/src/main/AndroidManifest.xml;errors/src/main/AndroidManifest.xml;external-app/src/main/AndroidManifest.xml;fragments-test/src/main/AndroidManifest.xml;geo/src/main/AndroidManifest.xml;google-maps/src/main/AndroidManifest.xml;icons/src/main/AndroidManifest.xml;image-loader/src/main/AndroidManifest.xml;lists/src/main/AndroidManifest.xml,TRUE,1M+,3.9,3.9,5,2025-09-24T18:45:50+00:00,org.odk.collect.android,0,Productivity,"ODK lets you build powerful forms to collect the data you need wherever it is.
+
+Here are three reasons why leading researchers, field teams, and other professionals use ODK to collect data that matters.
+
+1.  Build powerful forms with photos, GPS locations, skip logic, calculations, external datasets, multiple languages, repeating elements, and more.
+
+2.  Collect data online or offline with either the mobile app or the web app. Forms and submissions are synced when a connection is found.
+
+3.  Analyze with ease by connecting apps like Excel, Power BI, Python, or R to create live-updating and shareable reports and dashboards.
+
+Get started at https://getodk.org",153,2025-09-24T18:45:50+00:00,134,2025-09-24T18:45:50+00:00,0,,0,
+andstatus,andstatus,andstatus/andstatus,https://github.com/andstatus/andstatus,social,social,social,317,70,Kotlin,2011-12-23T13:33:25Z,2025-09-07T15:40:56Z,master,https://api.github.com/repos/andstatus/andstatus/zipball/master,5,2024-12-14T15:36:00+00:00,TRUE,TRUE,master,app/src/main/AndroidManifest.xml,TRUE,10K+,3.5,3.5,5,2024-12-14T15:36:00+00:00,org.andstatus.app,3,Social,"AndStatus is an Open Source multiple accounts client for multiple Social networks, including Mastodon, ActivityPub (Client to Server), GNU social and Pump.io.
+AndStatus can combine your feeds from all networks into one Timeline,
+and it allows you to read and post even when you are offline.
+
+For Android v.7.0+ devices.
+
+Differentiating features of AndStatus:
+
+1. Many accounts in different Social networks. You may have several accounts in each, write/reply as any ""You"" and share between accounts and networks.
+2. You don't need to be online to read timelines and to post your updates: drafts and unsent posts are kept even after reboot. They will be sent when your device is Online.
+3. Convenient tree-like ""Conversation view"".
+4. ""Global search"" allowing you to search public notes in all networks with one query.
+5. Lists of Friends and Followers, presented as User Lists and as Timelines (with the latest note by each User).
+6. Notes (tweets)/avatars/attached images are periodically synced in a background, when your device has a good connection. By default, attachments are downloaded via Wi-Fi only.
+7. Cached data may be stored for years or for several days only - it's your choice.
+8. Backup accounts and notes and Restore them on any of your devices. Own your data!
+9. Free and without ads, community supported.
+
+See a Change Log for descriptions of all features of AndStatus with links to their discussions:
+http://andstatus.org/changelog.html",6,2024-12-14T15:36:00+00:00,4,2024-12-14T15:36:00+00:00,0,,0,
+nextcloud,talk-android,nextcloud/talk-android,https://github.com/nextcloud/talk-android,social,social,social,646,278,Kotlin,2017-09-11T06:53:14Z,2025-09-29T03:15:24Z,master,https://api.github.com/repos/nextcloud/talk-android/zipball/master,5,2025-09-26T08:42:20+00:00,TRUE,TRUE,master,app/src/main/AndroidManifest.xml,TRUE,100K+,4,4,5,2025-09-26T08:42:20+00:00,com.nextcloud.talk2,3,Communication,"Use Nextcloud Talk to have one-on-one or group audio or video calls, create or join web conferences and send chat messages. All communication is fully encrypted and mediated by your own server, providing the highest degree of privacy possible.
+
+Nextcloud Talk is easy to use and will always be completely free!
+
+Nextcloud Talk supports:
+* HD (H.264) audio/video calls
+* Group and one-on-one calls
+* Webinars & public web meetings
+* Individual and group chat
+* Easy screen sharing
+* Mobile apps for Android and iOS
+* Mobile call & chat push notifications
+* Integration in Nextcloud Files and Nextcloud Groupware
+* Fully on-premise, 100% open source
+* End-to-end Encrypted calls
+* Scaling to millions of users
+* SIP gate: dial in by phone
+
+The Nextcloud Talk app requires a Nextcloud Talk server to function. Nextcloud is a private, self-hosted file sync and communication platform, designed to put you back in control over your data. It runs on a server of your choice, be it at home, at a service provider or in your enterprise, and gives you access to your documents, calendars, contacts, email and other data. You can share with others even across different Nextcloud servers and work together on documents. Nextcloud is fully open source, giving you the option to extend them for your own use, participate in their development or simply verify they do what we promise.
+
+Millions of users use Nextcloud daily at businesses and homes around the world. Business users rely on the professional support of Nextcloud GmbH, making sure they have a fully supported, enterprise-ready platform for productivity and collaboration, fully under control of their IT department.
+
+Learn more on https://nextcloud.com/talk
+
+Find Nextcloud on https://nextcloud.com",116,2025-10-02T11:00:14+00:00,115,2025-10-02T11:00:14+00:00,0,,0,
+markusfisch,Libra,markusfisch/Libra,https://github.com/markusfisch/Libra,decision maker,decision maker,decision maker,142,20,Kotlin,2017-04-01T11:28:12Z,2025-09-15T23:38:25Z,master,https://api.github.com/repos/markusfisch/Libra/zipball/master,5,2025-08-13T17:30:58+00:00,TRUE,TRUE,master,app/src/main/AndroidManifest.xml,TRUE,10K+,4.4,4.4,5,2025-08-13T17:30:58+00:00,de.markusfisch.android.libra,3,Productivity,"Write down pros and cons, then weigh all arguments and get a recommendation based on this Time Article:
+http://time.com/3772262/billionaire-trick-for-decisions/
+
+This is open source:
+https://github.com/markusfisch/Libra
+
+Please report bugs here:
+https://github.com/markusfisch/Libra/issues",10,2025-08-13T17:30:58+00:00,10,2025-08-13T17:30:58+00:00,0,,0,
+SapuSeven,BetterUntis,SapuSeven/BetterUntis,https://github.com/SapuSeven/BetterUntis,course manager,course manager,course manager,280,37,Kotlin,2019-04-11T07:01:20Z,2025-09-25T10:01:07Z,master,https://api.github.com/repos/SapuSeven/BetterUntis/zipball/master,5,2025-07-08T00:17:18+00:00,TRUE,TRUE,master,app/src/main/AndroidManifest.xml,TRUE,10K+,,,5,2025-07-08T00:17:18+00:00,com.sapuseven.untis,3,Education,"BetterUntis is an open-source mobile client for the Untis timetable system
+which allows you to view your timetable on your smartphone.
+
+The app allows customization of almost any aspect of your timetable,
+including multiple themes and dark mode.
+
+Easily add multiple profiles with separate settings and timetables.
+
+Protect your privacy with support for proxy servers.
+
+Use Notifications to show information about the next lesson.
+
+Other features include a room finder to search for free rooms in your school
+and an info center to view upcoming events, your absences and more.
+
+Enjoy a fast and smooth experience with BetterUntis.
+
+
+Untis is proprietary timetable software. More information about Untis can be
+found at https://untis.at.
+To use Untis, your school must provide it.
+Your school must also give you an account which you can use to access
+your current timetable if no anonymous access is available.
+
+Why use this app when there is an official one?
+The official app is proprietary and includes tracking software and in-app purchases.
+BetterUntis is free and open source, feature-rich and respects your privacy.
+
+WebUntis is a proprietary network.",14,2025-07-08T00:17:18+00:00,14,2025-07-08T00:17:18+00:00,0,,0,
+pantasystem,Milktea,pantasystem/Milktea,https://github.com/pantasystem/Milktea,,,,268,20,Kotlin,2019-10-07T15:36:16Z,2025-09-11T23:50:17Z,develop,https://api.github.com/repos/pantasystem/Milktea/zipball/develop,5,2024-09-19T14:54:37+00:00,TRUE,TRUE,develop,app/src/main/AndroidManifest.xml,TRUE,50K+,3.2,3.2,5,2024-09-19T14:54:37+00:00,jp.panta.misskeyandroidclient,0,Social,"AndroidからMastodon, Misskey, Calckeyを利用するためのアプリです。
+ソフトウェア(Mastodon, Calckey, Misskey)やそのバージョンによって、
+操作感などが変わらないようなアプリを目指しています。
+またMilkteaは複数アカウントのサポートを行っており、
+複数のアカウント、インスタンスでの行き来をしやすくすることを目指しています。
+
+【タブ表示機能】
+タイムラインをタブ状に表示し横スワイプでタイムラインを切り替えることのできる機能です。※Deckとは異なりますご注意ください。
+表示するタイムラインはカスタムすることができます。
+
+・以下の機能をタブに加えることができます。
+(グローバルタイムライン、ローカルタイムライン、ソーシャルタイムライン、ホームタイムライン、検索、タグ検索、ユーザーの投稿一覧、お気に入り一覧、ハイライト、ノートの会話、リスト、通知一覧、メンション一覧)
+以上の機能をタブに加えることができます。
+※インスタンスによってはご利用いただけない場合があります
+
+
+【壁紙】
+メイン画面の画像と正面要素の不透明度を設定していただくことにより背景画像を設定していただけます。
+
+【テーマ】
+ホワイト、ダーク、ブラック、パンケーキの四種類のテーマを用意しています。
+
+【ストリーミングAPI】
+Mastodon, Misskey, CalckeyのストリーミングAPIに対応しています。
+
+ソースコード
+https://github.com/pantasystem/MisskeyAndroidClient",21,2024-09-19T14:54:37+00:00,20,2024-09-19T14:54:37+00:00,0,,0,
+federicoiosue,Omni-Notes,federicoiosue/Omni-Notes,https://github.com/federicoiosue/Omni-Notes,,,,2769,1107,Java,2013-12-11T21:59:18Z,2025-09-27T15:24:19Z,develop,https://api.github.com/repos/federicoiosue/Omni-Notes/zipball/develop,5,2023-12-16T22:45:41+00:00,TRUE,TRUE,develop,omniNotes/src/main/AndroidManifest.xml,TRUE,100K+,4,4,5,2023-12-16T22:45:41+00:00,it.feio.android.omninotes.alpha,0,Productivity,"Open-source note taking application, designed to be lightweight and simple without giving up smart behavior.
+
+Your help in translating the app is welcome. Send me an e-mail If you want to lend a hand !
+
+Current features:
+☆ Material Design interface
+☆ Basic add, modify, archive, trash and delete notes actions
+☆ Share, merge and search notes
+☆ Image, audio and generic file attachments
+☆ Manage your notes using tags and categories
+☆ To-do list
+☆ Sketch-note mode
+☆ Notes shortcut on home screen
+☆ Export/import notes to backup
+☆ Google Now integration: just tell ""write a note"" followed by the content
+☆ Multiple widgets, DashClock extension, Android 4.2 lockscreen compatibility
+☆ Multilanguage: 30 languages supported: https://crowdin.com/project/omni-notes
+
+Please check https://github.com/federicoiosue/Omni-Notes/issues for all your sent e-mail messages to the support.",13,2023-12-16T22:45:41+00:00,12,2023-12-16T22:45:41+00:00,0,,0,
+QuantumBadger,RedReader,QuantumBadger/RedReader,https://github.com/QuantumBadger/RedReader,,,,2241,488,Java,2013-04-04T14:00:14Z,2025-09-28T14:23:02Z,master,https://api.github.com/repos/QuantumBadger/RedReader/zipball/master,5,2024-08-26T10:01:56+00:00,TRUE,TRUE,master,src/main/AndroidManifest.xml,TRUE,100K+,3.4,3.4,5,2024-08-26T10:01:56+00:00,org.quantumbadger.redreader,3,Social,"An unofficial, open source client for Reddit, with a focus on accessibility.
+
+
+Features:
+- Free and open source, with no ads or tracking
+- Lightweight and fast
+- Swipe posts and comments left and right to perform customizable actions, such as upvote/downvote, or save/hide
+- Advanced cache management: automatically stores past versions of posts and comments
+- Support for multiple accounts
+- Two-column tablet mode (can be used on your phone, if it's big enough)
+- Image and comment precaching (optional: always, never, or Wi-Fi only)
+- Built-in image viewer, and GIF/video player
+- Multiple themes, including night mode, and ultra black for AMOLED displays
+- Translations for multiple languages
+- Accessibility features and optimization for screen reader use
+
+Source Code
+Available on GitHub: https://github.com/QuantumBadger/RedReader",18,2024-08-26T10:01:56+00:00,18,2024-08-26T10:01:56+00:00,0,,0,
+wallabag,android-app,wallabag/android-app,https://github.com/wallabag/android-app,reader,reader,reader,549,267,Java,2014-02-07T13:44:17Z,2025-09-21T15:09:04Z,master,https://api.github.com/repos/wallabag/android-app/zipball/master,5,2024-05-24T08:44:39+00:00,TRUE,TRUE,master,app/src/main/AndroidManifest.xml,TRUE,10K+,4.2,4.2,5,2024-05-24T08:44:39+00:00,fr.gaulupeau.apps.InThePoche,3,Productivity,"wallabag is a self hosted read-it-later app. Unlike to other services, wallabag is free and open source. It's made for you to comfortably read and archive your articles.
+
+You can download wallabag on wallabag.org and follow the instructions to install it on your own server, or you can directly sign up on wallabag.it
+
+This android application allows you read and manage your articles and automatically syncs them to the wallabag server.
+
+SAVE FOR LATER:
+Next time you find an article you want to read later, save it into wallabag. It will be automatically synced on your phone, your tablet, your e-reader or your computer. Therefore, your can read it anytime anywhere, even offline.
+
+You can save an article into wallabag from nearly everywhere, including your computer and your favorite RSS reader apps.
+
+A GREAT READING EXPERIENCE:
+
+wallabag allows you to read articles inside a simple and pleasant view, without any distraction. You can customize wallabag depending on your reading style.
+
+BONUS FEATURES:
+* Automatic synchronization between the server and the apps
+* Downloading pictures for offline reading
+* Tags to manage your content
+* Speech synthesis to listen to your articles
+
+This application has been originally created by Jonathan GAULUPEAU and released under the GPL licence.
+wallabag is a creation from Nicolas Lœuillet released under the MIT licence.",7,2024-05-24T08:44:39+00:00,7,2024-05-24T08:44:39+00:00,0,,0,
+mathisdt,trackworktime,mathisdt/trackworktime,https://github.com/mathisdt/trackworktime,schedule,schedule,schedule,152,33,Java,2014-01-11T20:25:27Z,2025-09-29T03:16:23Z,master,https://api.github.com/repos/mathisdt/trackworktime/zipball/master,5,2025-08-24T19:06:04+00:00,TRUE,TRUE,master,app/src/main/AndroidManifest.xml,TRUE,10K+,4.2,4.2,5,2025-08-24T19:06:04+00:00,org.zephyrsoft.trackworktime,3,Productivity,"This app can track your work time easily! You can automate time tracking using geo-fencing functions (see below). You may also categorize each recorded interval by a predefined client/task and a free text. Of course, the list of clients/tasks can be edited to suit your needs, and the app has a widget for your home screen.
+
+Additionally, if you wish, your flexible time account is taken care of: you always see how much you worked. You can also keep an eye on how much work time is left for today or for the current week (by a notification
+which you can enable).
+
+The app enables you to modify the planned working time effortlessly - just tap on the date you want to edit in the main table.
+
+You may provide the geo-coordinates of your work place and the app can automatically clock you in while you are at work. This is done without using GPS, so your battery won't be emptied by this app.
+
+You also may provide a Wi-Fi network name which is visible at your work place the app can use to clock in automatically when this SSID is in range (you don't need to be connected to this network). Of course you should have Wi-Fi enabled for this to work.
+
+You don't want to open the app for clocking in and out? No problem - there are at least three ways to do that: add the widget to your home screen, use launcher shortcuts (long press the app icon for that) or add a new quick settings tile to your panel by tapping on the pencil below and dragging the ""Track Work Time"" tile up which then can toggle your clocked-in state.
+
+If you prefer to use other apps like Llama or Tasker for tracking your movements, that's fine - TWT can be triggered from other apps and just do the book-keeping of your work time. In this case, you have to create broadcast intents called org.zephyrsoft.trackworktime.ClockIn or org.zephyrsoft.trackworktime.ClockOut. When using ClockIn, you can also set the parameters task=... and text=... in the ""extra"" section of the intent so your events are more meaningful. You can also use the action org.zephyrsoft.trackworktime.StatusRequest to get the current state of TWT: is the user clocked in, and if so, with which task and how much time remains for today? For more details on this, see the web site.
+
+If you have a Pebble smart watch, the app will notify you on clock-in and clock-out events which is especially useful if you want to be in the know about automatic time tracking via location and/or WiFi.
+
+Finally, the app can generate reports for you. The raw events report is the right thing if you want to import your data somewhere else, while year/month/week reports are fine if you want to keep track of your task progress.
+
+Important note: This app definitely won't use your personal data for anything you don't want! It uses the INTERNET permission only to offer you to send some information about crashes to the developer (and does that only if you agree, you will be asked every time). The app does NOT include tracked times or places in the bug report, but the general log file is appended and might potentially include personal data - if so, it will be kept strictly confidential and only used to identify the problem.
+
+This is an open source project, so if there's something you don't like, you are very welcome tofile an issue or even fix things yourself and create a pull request. Please don't try to communicate with me via reviews, that doesn't work in both directions. You can always write me an email and I'll see what I can do.",27,2025-08-24T19:06:04+00:00,27,2025-08-24T19:06:04+00:00,0,,0,
+smc,Indic-Keyboard,smc/Indic-Keyboard,https://github.com/smc/Indic-Keyboard,keyoard,keyoard,keyoard,137,86,Java,2014-03-10T04:14:32Z,2025-04-22T10:35:57Z,master,https://api.github.com/repos/smc/Indic-Keyboard/zipball/master,2,2021-08-09T02:34:49+00:00,TRUE,TRUE,master,java/AndroidManifest.xml;tests/AndroidManifest.xml,TRUE,1M+,3.8,3.8,2,2021-08-09T02:34:49+00:00,org.smc.inputmethod.indic,6,Tools,"Indic Keyboard is a versatile keyboard for Android users who wish to use Indic and Indian languages to type messages, compose emails and generally prefer to use them in addition to English on their phone. You can use this application to type anywhere in your phone that you would normally type in English.
+
+- 23 languages supported
+- Learns the common words you use and provides suggestions.
+- Provides compact, convenient keyboard layouts for the casual users as well as the language lovers
+- Transliteration - You type using English, the app will convert it into your language. Eg: Typing  ""namaste"" will give you नमस्ते
+- Fully integrates with native Android look and feel
+- Free and Open Source - Made for the people, by the people. YOU can make it better.
+
+What languages are supported ?
+
+- Assamese Keyboard (অসমীয়া) - Inscript, Transliteration
+- Arabic Keyboard (العَرَبِيةُ‎‎)
+- Bengali / Bangla Keyboard (বাংলা) - Probhat, Avro, Inscript, Compact
+- Burmese Keyboard (ဗမာ) / Myanmar - xkb
+- English
+- Gujarati Keyboard (ગુજરાતી) - Phonetic, Inscript, Transliteration
+- Hindi Keyboard (हिन्दी) - Inscript, Transliteration
+- Kannada Keyboard (ಕನ್ನಡ) - Phonetic, Inscript, Transliteration (Baraha), Compact, Anysoft
+- Kashmiri Keyboard (کأشُر) - Inscript, Transliteration
+- Malayalam Keyboard (മലയാളം) - Phonetic, Inscript, Transliteration (Mozhi), Swanalekha
+- Manipuri Keyboard / Methei Keyboard (মৈতৈলোন্) - Inscript
+- Maithili Keyboard (मैथिली) - Inscript
+- Marathi Keyboard (मराठी) - Transliteration
+- Mon Keyboard (ဘာသာ မန်;)
+- Nepali Keyboard (नेपाली) - Phonetic, Traditional, Transliteration, Inscript
+- Oriya Keyboard (ଓଡ଼ିଆ) - Inscript, Transliteration, Lekhani
+- Punjabi / Gurmukhi Keyboard (ਪੰਜਾਬੀ) - Phonetic, Inscript, Transliteration
+- Sanskrit Keyboard (संस्कृत) - Transliteration
+- Santali Keyboard-(संताली) - Inscript (Devanagari script)
+- Sinhala Keyboard / Sinhalese (සිංහල) - Transliteration
+- Tamil Keyboard (தமிழ்) - Tamil 99, Inscript, Phonetic, Compact, Transliteration
+- Telugu Keyboard (తెలుగు) - Phonetic, Inscript, Transliteration, KaChaTaThaPa, Compact
+- Urdu Keyboard (اردو) - Transliteration
+
+# How do I enable it ?
+Indic keyboard has a wizard that will walk you through the process of setting it up so that you can use it comfortably.
+
+# When I try to enable the keyboard, I am getting a warning about ""collecting data""?
+This message is a part of the Android operating system. It will appears whenever you try to enable a third party keyboard. Nothing to worry here.
+
+# What is a keyboard layout ?
+Indic keyboard provides multiple ""keyboard layouts"". This means that you will have different  ways to type in your native language.
+
+Transliteration allows you to type out words using English characters, but will automatically transform the words to your native language. For example, if you type ""namaste"" in English while using Devanagari transliteration keyboard, it will transform it to नमस्ते correctly
+
+Inscript layout is the standardized keyboard that Government of India came up with to cater for the majority of the languages in India. We support the full specification, and if you are already familiar with Inscript on your Desktop, it will work on the phone too.
+
+Phonetic keyboard is similar to Transliteration scheme - you can type what the words sound like using English characters, and it will be automatically transformed into your language.
+
+Compact Keyboard allows typing Indian languages without the shift key. You can long press on the letters to get more options.
+
+Find out more at :  https://indic.app
+Privacy Policy: https://indic.app/privacy.html",2,2021-08-09T02:34:49+00:00,2,2021-08-09T02:34:49+00:00,0,,0,
+jclehner,rxdroid,jclehner/rxdroid,https://github.com/jclehner/rxdroid,manager,manager,manager,124,32,Java,2013-09-27T08:44:59Z,2025-09-07T18:12:28Z,stable,https://api.github.com/repos/jclehner/rxdroid/zipball/stable,5,2024-01-06T10:11:03+00:00,TRUE,TRUE,stable,src/main/AndroidManifest.xml,TRUE,10K+,4.6,4.6,5,2024-01-06T10:11:03+00:00,at.jclehner.rxdroid,3,Health & Fitness,"RxDroid is a simple medication reminder app. Apart from reminding you to take your meds, it will also keep track of your pill count, warning you to get a refill in time.
+
+This app is free and open source, contains no ads, and requires only very limited permissions.
+
+I'm a medical student and this app is a hobby of mine, so development can be slow at times!
+
+Help with translating RxDroid to your language at https://crowdin.com/project/rxdroid!",6,2024-01-06T10:11:03+00:00,6,2024-01-06T10:11:03+00:00,0,,0,
+nilsbraden,ttrss-reader-fork,nilsbraden/ttrss-reader-fork,https://github.com/nilsbraden/ttrss-reader-fork,reader,reader,reader,163,41,Java,2015-03-13T06:25:03Z,2025-08-26T05:54:56Z,master,https://api.github.com/repos/nilsbraden/ttrss-reader-fork/zipball/master,5,2024-11-12T19:15:50+00:00,TRUE,TRUE,master,ttrssreader/src/main/AndroidManifest.xml,TRUE,10K+,4.2,4.2,5,2024-11-12T19:15:50+00:00,org.ttrssreader,3,News & Magazines,"NOTE: I won't respond to ratings on the app anymore since I really don't care for your bad reviews if you don't manage to write me about your problem by filing a bugreport or at least sending me an e-mail (ttrss@nilsbraden.de)!
+
+
+This is a client application for the project ""Tiny Tiny RSS"" (from http://tt-rss.org/), a PHP-based online feedreader which runs on your own webspace. If you want to host your own feedreader, want a cross-device-solution and don't want to use Google Reader (for whatever reason) this is the app you want! This reader offers automatic update on startup, filtering articles by status and efficient browsing through categories and the virtual categories ""Fresh"", ""Starred"" and ""Published Articles"" as well as Labels you can define by yourself. You can browse the articles offline when they have been synchronized before and the ImageCache can be used to pre-load all included images from the articles too.
+
+_________
+FEATURES:
+☆ Swipe for faster browsing
+☆ Optional navigation with volume-buttons
+☆ View and download attached media files
+☆ Cache articles and images locally
+☆ Share URLs
+☆ Easily mark things as read, starred or publish/comment them
+☆ SSL with self-signed certificates
+☆ Fast JSON-Parsing with stream-based parser GSON
+☆ Scheduled updates via Tasker/Locale
+☆ Layout optimized for tablets
+☆ Dark and light themes available
+☆ many more, Changelog and Feature-List can be found on the project-page...
+
+__________
+IMPORTANT:
+You need to enable the API for the user-account in the user-preferences.
+
+____________
+PERMISSIONS:
+• ""modify/delete SD card contents"": Download of attached media files, ImageCache.
+• ""full Internet access"": Connection to your Server.
+• ""view network state"": Check for mobile network/wifi.
+• ""control vibrator"": Vibrate when last article is reached.
+• ""wake lock"": Keep CPU running, necessary for the ImageCache.
+
+____
+FAQ:
+Q: Why can't I update this app (""Signature incorrect"" error)?
+A: Remove the application and install it again. Sorry about that but it's the only way. And not my fault. Someone included this app in a custom android build on your device or you installed it from a third-party-source and it isn't signed with my key, so there is no way you can update it.
+
+Q: When I switch to offline-mode, how do I know when the caching is done?
+A: There is no caching. The only difference to normal mode is that no connectivity is necessary and changes are stored locally. When switching to online again the spinning indicator should show while changes are uploaded. Caching occurs only when starting the app (everything except images) or the ImageCache is started (everything).
+
+Q: Why don't articles appear as ""read"" when I did read them on my PC?
+A: Most of the time this is no problem at all. But. There is simply no way to get this information from the Server-API. I have to guess how many articles could have been read since the last update of the local data and would probably transmit much more data then necessary in the end. So it *can* happen. But mostly it doesn't.
+
+Q: Quote from the comments: ""SSL doesn't work anymore -> deinstall""
+A: Yeah, deinstall. Don't want people like you around. Thanks. My fault. I broke some functionality by trying to make the app more secure and I didn't have the resources to make sure this didn't happen. Mostly because THIS THING IS FREE. I fixed it btw, but people like you don't care. So yeah, deinstall please.
+
+
+Please feel free to contact me via mail or on the project-page, I am happy to receive bug-reports, feature-requests, donations or (of course) also critique.",13,2024-11-12T19:15:50+00:00,13,2024-11-12T19:15:50+00:00,0,,0,
+nextcloud,notes-android,nextcloud/notes-android,https://github.com/nextcloud/notes-android,notes,notes,notes,1026,146,Java,2015-10-01T15:53:21Z,2025-09-24T19:27:28Z,main,https://api.github.com/repos/nextcloud/notes-android/zipball/main,5,2025-09-25T12:14:19+00:00,TRUE,TRUE,main,app/src/main/AndroidManifest.xml,TRUE,100K+,3.9,3.9,5,2025-09-25T12:14:19+00:00,it.niedermann.owncloud.notes,3,Tools,"Companion app to Nextcloud Notes.
+
+🚀 Funktionen
+
+  * Mehrere Konten 👥
+  * Erstellen, Bearbeiten, Teilen, Suchen und Löschen von Notizen 📝
+  * Texte und Links als neue Notizen in die App teilen 📩
+  * ToDos direkt in der Leseansicht abhaken ✅
+  * Notizen als Favoriten markieren⭐
+  * Massenhaftes Löschen 🗑️
+  * Notizen durchsuchen 🔍
+  * Markdown-Rendering ✨
+  * Kontext-basierte Formatierung 🧰
+  * Dark Mode 🌙
+  * Single note widget and note list widget 📊
+  * Übersetzt in viele Sprachen 🌎
+
+
+🔗 Voraussetzungen
+
+  * Nextcloud (https://nextcloud.com/)
+  * Nextcloud Notes App (https://apps.nextcloud.com/apps/notes)
+  * Nextcloud Android Client (https://play.google.com/store/apps/details?id=com.nextcloud.client)
+
+
+👨‍👩‍👦 Mitwirken
+
+  * https://github.com/nextcloud/notes-android#family-join-the-team",13,2025-09-25T12:14:19+00:00,8,2025-09-25T12:14:19+00:00,0,,0,
+pluscubed,matlog,pluscubed/matlog,https://github.com/pluscubed/matlog,reader,reader,reader,340,62,Java,2015-07-08T05:01:00Z,2025-09-23T21:39:36Z,master,https://api.github.com/repos/pluscubed/matlog/zipball/master,5,2018-11-08T07:15:16+00:00,TRUE,TRUE,master,app/src/main/AndroidManifest.xml,TRUE,50K+,4.5,4.5,5,2018-11-08T07:15:16+00:00,com.pluscubed.matlog,0,Tools,"Debug your apps. Find error stacktraces. See what your phone is saying about you behind your back. It's all there in the system log, aka logcat!
+
+* Color-coded tag names
+* Easy-to-read column display
+* Real-time search
+* Recording mode (with widget)
+* Save & open from SD card
+* Send logs as email or attachment
+* Auto-scrolls when at the bottom of the screen
+* Search autosuggestions & saved filters
+* Select and save parts of logs
+* Open-source and ad-free
+* Material goodness
+
+MatLog is based on: https://goo.gl/OVGSII
+GitHub: https://github.com/plusCubed/matlog",0,,0,,0,,0,
+eladnava,redalert-android,eladnava/redalert-android,https://github.com/eladnava/redalert-android,alert,alert,alert,121,25,Java,2015-10-05T16:35:42Z,2025-09-25T15:53:22Z,master,https://api.github.com/repos/eladnava/redalert-android/zipball/master,5,2025-06-25T20:03:36+00:00,TRUE,TRUE,master,app/src/main/AndroidManifest.xml,TRUE,1M+,4.6,4.6,5,2025-06-25T20:03:36+00:00,com.red.alert,0,News & Magazines,"RedAlert was developed by volunteers to provide real-time emergency alerts for Israeli citizens.
+
+The app relays real-time safety alerts published by the Home Front Command (Pikud Haoref).
+
+★ Speed & reliability - alerts are received before / during the official siren thanks to dedicated notification servers
+★ Location-based alerts - receive emergency alerts on the move in addition to city / region selection
+★ Threat types - receive alerts about rocket fire, hostile aircraft intrusion, terrorist infiltration, and more
+★ Alert history - see the list of recent alerts, their location, and time of day (in your local time)
+★ Connectivity test - check, at any time, whether your device is able to receive alerts via the ""self-test"" option
+★ Sound selection - choose from 15 unique sounds for alerts or choose a custom sound
+★ Silent mode override - the application will override silent / vibrate mode to sound alerts
+★ Vibration - your phone will vibrate in addition to playing the selected alert sound
+★ Area selection - select preferred alert cities / regions by searching for them
+★ Countdown - alerts will display the estimated time until impact
+★ I'm safe - let your friends and family know you are safe by sending an ""I'm safe"" message via the app
+★ Localization - the app has been translated to multiple languages (Hebrew, English, Arabic, Russian, Italian, Spanish, French, German, and Portuguese)
+
+Attention:
+1. This application was developed by volunteers and is not owned or operated by the military, country or Home Front Command.
+2. The application is not a replacement for the official rocket alert systems, use it only as a supplement. In case of unstable connectivity, the application will not be able to receive rocket alerts.
+3. Please adhere to the Home Front Command's official instructions for when a rocket alarm goes off:
+http://www.oref.org.il/
+4. Location-based Alerts require enabling a foreground service which updates your location in the background, even when you don't use the app.
+5. There is an optional remote messaging foreground service which improves alert delivery in real time when the app is in the background.
+
+The app is open sourced on GitHub:
+https://github.com/eladnava/redalert-android
+
+Special thanks to:
+1. Ilana Badner for the Russian translation
+2. Rodolphe Moulin for the French translation
+3. Matteo Villosio for the Italian translation
+4. David Chevallier for the German translation
+5. Rodrigo Sabino for the Portuguese translation
+6. Nathan Ellenberg and Noam Hashmonai for the Spanish translation
+7. Eden Galant for Siren 1 and Siren 2 in sound selection
+8. Thanks to the developers of the Tzofar app for the map polygon data
+
+Visit our website:
+https://redalert.me",64,2025-06-25T20:03:36+00:00,64,2025-06-25T20:03:36+00:00,0,,0,
+rkkr,simple-keyboard,rkkr/simple-keyboard,https://github.com/rkkr/simple-keyboard,keyboard,keyboard,keyboard,1391,271,Java,2017-04-22T11:32:21Z,2025-09-29T06:58:50Z,master,https://api.github.com/repos/rkkr/simple-keyboard/zipball/master,5,2025-09-28T16:24:19+00:00,TRUE,TRUE,master,app/src/main/AndroidManifest.xml,TRUE,1M+,4.1,4.1,5,2025-09-28T16:24:19+00:00,rkr.simplekeyboard.inputmethod,3,Tools,"This keyboard is created for those who only need a keyboard and nothing more.
+
+To enable the keyboard:
+* Open ""Simple Keyboard"" from your launcher
+* Enable the Simple Keyboard (default system warning about tracking will be shown)
+* Switch to Simple Keyboard from current Input Method (differs between keyboards, usually long-press space)
+* To edit Simple Keyboard settings long-press "","" or open system Settings, Languages & Input, Simple Keyboard.
+* You can enable/disable all the input methods in Settings, Languages & Input, Manage Keyboards (differs between phones)
+
+Features:
+* Small size (<1MB)
+* Adjustable keyboard height for more screen space
+* Number row
+* Swipe space to move pointer
+* Delete swipe
+* Custom theme colors
+* Minimal permissions (only Vibrate)
+* Ads-free
+
+Features it doesn't have and probably will never have:
+* Emojis
+* GIFs
+* Spell checker
+* Swipe typing
+
+Application is open-source (link in the bottom of store page). Licensed under Apache License Version 2.",52,2025-09-28T16:24:19+00:00,52,2025-09-28T16:24:19+00:00,0,,0,
+AniTrend,anitrend-app,AniTrend/anitrend-app,https://github.com/AniTrend/anitrend-app,reader',reader',reader',219,27,Java,2017-05-21T23:16:26Z,2025-09-27T00:59:40Z,develop,https://api.github.com/repos/AniTrend/anitrend-app/zipball/develop,5,2025-08-23T17:35:00+00:00,TRUE,TRUE,develop,app/src/main/AndroidManifest.xml,TRUE,100K+,3.1,3.1,5,2025-08-23T17:35:00+00:00,com.mxt.anitrend,0,Entertainment,"**⚠️ NOT FOR STREAMING OR READING MANGA ⚠️**
+
+Love anime and manga? ❤️ Dive into the ultimate app for fans! With AniTrend, you can track your favorite series, explore new recommendations, and connect with a community of fellow anime and manga lovers! 🎌✨
+
+**📖 About AniTrend**
+
+🌟 Powered by AniList, AniTrend gives you access to one of the largest anime and manga databases online. Whether you’re watching the latest seasonal hits or revisiting classics, AniTrend helps you track your progress with ease. 📊🎥
+
+**💬 Connect with Fellow Fans**
+
+AniTrend isn’t just about tracking—it’s about sharing your passion! 🌸 Create your own watchlists, rate shows, write reviews, and discover what others are watching. Chat with fans, exchange opinions, and make new friends who share your interests. 👫📚🎨
+
+**🔍 Discover Your Next Obsession**
+
+Not sure what to watch or read next? 🤔 Browse recommendations, explore curated lists, or keep an eye on upcoming releases. AniTrend ensures you never miss a hidden gem! 💎✨
+
+**📱 Built for Your Convenience**
+
+AniTrend is designed for anime and manga lovers on the go! 🚀 Seamlessly track your progress, browse detailed series info, and find what’s trending—all from your mobile device. Easy to use and beautifully designed, it’s the perfect companion for every fan! 🌟
+
+**🔗 Features at a Glance:**
+
+- 📊 Track anime & manga progress in real-time.
+- 🔍 Get recommendations based on your taste.
+- 💬 Interact with fellow fans and share reviews.
+- 📅 Stay updated on seasonal releases and trending shows.
+- ⭐ Explore one of the largest collections powered by AniList.
+- 🖼️ Browse detailed info on series, characters, and more!
+
+**📣 Join the Community!**
+
+Whether you’re a seasoned otaku or just starting your anime/manga journey, AniTrend is your one-stop platform to keep the excitement alive. Meet new friends, discover fresh titles, and showcase your love for the art and stories that inspire you. 🌈🌟
+
+https://discord.gg/2wzTqnF",38,2025-08-23T17:35:00+00:00,36,2025-08-23T17:35:00+00:00,0,,0,
+brarcher,video-transcoder,brarcher/video-transcoder,https://github.com/brarcher/video-transcoder,video,video,video,514,60,Java,2018-01-01T19:33:50Z,2025-09-06T06:19:38Z,master,https://api.github.com/repos/brarcher/video-transcoder/zipball/master,5,2019-04-03T04:38:13+00:00,TRUE,TRUE,master,app/src/main/AndroidManifest.xml,TRUE,100K+,3.4,3.4,5,2019-04-03T04:38:13+00:00,protect.videoeditor,0,Tools,"Do you want to encode videos on your phone into different formats, trim videos, or extract audio? Are you looking for a free solution which will not take your information?
+
+Video Transcoder is an application which uses the open source program FFmpeg to transcode video files from one format to another. By selecting the video to process, details for the video are provided and the desired settings can be configured.
+
+The following media containers are supported: Avi, Flv, Gif, Matroska, Mp3, Mp4, Ogg, Opus, WebM. Additionally, these are the supported video codecs: H.264, MPEG-1, MPEG-2, MPEG-4, VP8, VP9, Xvid.
+
+The application requires very few permissions, and never attempts to access the Internet.
+
+This application is open source, and can be found at:
+   https://github.com/brarcher/video-transcoder
+Feel free to send an email with feedback or direct feature requests, bug reports, or other contributions to the GitHub page.",0,,0,,0,,0,
+Docile-Alligator,Infinity-For-Reddit,Docile-Alligator/Infinity-For-Reddit,https://github.com/Docile-Alligator/Infinity-For-Reddit,reader,reader,reader,4945,454,Java,2018-07-26T15:02:51Z,2025-09-29T11:34:14Z,master,https://api.github.com/repos/Docile-Alligator/Infinity-For-Reddit/zipball/master,5,2025-09-18T18:05:39+00:00,TRUE,TRUE,master,app/src/main/AndroidManifest.xml,TRUE,50K+,3.7,3.7,5,2025-09-18T18:05:39+00:00,ml.docilealligator.infinityforreddit.plus,0,Social,"Infinity is a beautiful, feature-rich app that offers a smooth Reddit browsing experience. It is completely ad-less; you can browse Reddit without interruptions or distractions. Built by a passionate university student, Infinity is open source. Please check out, support or contribute to the project at https://github.com/Docile-Alligator/Infinity-For-Reddit!
+
+You are required to subscribe inside the app to enjoy Infinity since Reddit now charges for its API service. Thank you for your understanding.
+
+Help translate this app: https://poeditor.com/join/project/b2IRyfaJv6
+
+A subreddit for this app is available: https://www.reddit.com/r/Infinity_For_Reddit/
+
+Highlighted features:
+Lazy mode: Automatic scrolling of posts enables you to enjoy amazing content without moving your thumb.
+
+Multi-account support: Switch to different accounts instantaneously.
+
+Night theme: Beautifully designed night theme",139,2025-09-18T18:05:39+00:00,138,2025-09-18T18:05:39+00:00,0,,0,
+mkulesh,onpc,mkulesh/onpc,https://github.com/mkulesh/onpc,music,music,music,158,22,Java,2018-10-13T13:24:13Z,2025-09-25T18:18:01Z,master,https://api.github.com/repos/mkulesh/onpc/zipball/master,5,2025-08-26T15:48:44+00:00,TRUE,TRUE,master,app/src/main/AndroidManifest.xml,TRUE,50K+,4.5,4.5,5,2025-08-26T15:48:44+00:00,com.mkulesh.onpc.plus,3,Music & Audio,"This app allows remote control of a Network Player or a Network A/V Receiver via the local network.
+The app supports Onkyo/Pioneer/Integra released in April 2016 or later and Denon/Marantz with build-in HEOS technology.
+Some TEAC models like Teac NT-503 are also supported.
+
+The two most popular features of the app are music playback and sound profile management.
+
+Other benefits include:
+- Maximum privacy: No ads, no trackers, no telemetry, no special permissions like GPS
+- The modern Material design supports different color themes and works on smartphones and/or tablets in portrait and landscape mode
+- One-click access to music playback actions
+- One-click access to media items using shortcuts
+- Full music playback control (play, stop, pause, track up/down, time seek, repeat and random modes)
+- Full tone control (listening modes, bass, center, treble and subwoofer levels)
+- Enhanced Play Queue support (add, replace, remove, remove all, change playback order)
+- TuneIn Radio, Deezer, Spotify and Tidal streaming (if supported by receiver)
+- DAB / FM / AM (if supported by receiver)
+- Multi-zone support (if supported by receiver)
+- Multi-room support: Allows control of groups of devices attached via FlareConnect (for Onkyo/Pioneer/Integra only). Ability to control FlareConnect without WiFi
+- Control of devices attached via RI (for Onkyo/Pioneer/Integra only)
+- Display device details and control device settings such as dimmer level, digital filter, auto power, and sleep timer
+- Allows control of receivers over an OpenVPN connection (even over a cellular connection)
+- Integration with ""Tasker""
+
+Known limitations:
+- Please note that the app does not support the music streaming from your phone to the network player or the receiver
+- In order to login into Deezer, Tidal, or Spotify, you need the official Onkyo/Denon app additionally to this app
+- Pioneer models before year 2016 are NOT supported, for example: VSX-424, VSX-529, VSX-830, VSX-920K, VSX-923, VSX-924, VSX-1021, VSX-1121, SC-95, SC-LX79, N-50, N-50a, N-70A
+- Following Denon models are not supported: AVR-X1000, DNP-730AE, Heos Link 2, Denon Home 150, Marantz n40
+- Following models do not support ""Play Queue"" feature (that is a limitation of the Onkyo firmware): CR-N765, DTR-40.5, HM76, HT-R693, HT-R695, TX-8130, TX-8150, TX-NR626, TX-NR636, TX-NR646, TX-RZ900
+
+At the moment, the app is tested and works with following devices:
+- Onkyo: TX-L20D, TX-L50, TX-NR414, TX-NR509, TX-NR525, TX-NR535, TX-NR575E, TX-NR616, TX-NR636, TX-NR646, TX-NR656, TX-NR676E, TX-NR686, TX-NR696, TX-NR818, TX-RZ50, TX-RZ70, TX-RZ810, TX-RZ830, TX-RZ900, TX-RZ1100, TX-8130, TX-8150, TX-8250, TX-8260, TX-8270, TX-8390, TX-8470, R-N855, CS-N575D, CR-N755, CR-N765, CR-N775D, HT-S7805, NS-6130, NS-6170, NCP-302
+- Integra: DTM-6, DRX-5.2, DTR 30.7, DTR 40.7
+- Pioneer (models after 2016): VSX-LX101, VSX-LX103, VSX-LX104, VSX-LX302, VSX-LX303, VSX-LX503, VSX-LX504, VSX-S520D, VSX-831, VSX-832, VSX-932, VSX-933, VSX-935, VSX-1131, SC-LX701, SC-LX901, SX-N30, SX-S30DAB, NC-50DAB, N-50AE, N-70AE, XC-HM86D, MRX-3, MRX-5
+- Teac: NT-503, AG-D500
+- Denon with build-in HEOS: DRA-800H, AVR-S750H, AVR-S760H, AVR-X1500H, AVR-X1800H, AVR-X2400H, AVR-X2600H, AVR-X2700H, AVR-X2800H, AVR-X3700H, AVR-X3800H, AVR-X4300H, AVR-X4400H, AVR-X4500H, AVR-X6300H, AVR-X6400H
+- Marantz with build-in HEOS: NR1200, NR1508, NR1510, NR1711, SR5015, SR6015, SR7015, Cinema 40, Cinema 50, Cinema 60
+
+The app is 100% open source. Please feel free to download, explore, fork or contribute to it on https://github.com/mkulesh/onpc",21,2025-08-26T15:48:44+00:00,21,2025-08-26T15:48:44+00:00,0,,0,
+CatimaLoyalty,Android,CatimaLoyalty/Android,https://github.com/CatimaLoyalty/Android,wallet,wallet,wallet,1311,205,Java,2019-11-22T10:15:20Z,2025-09-28T21:20:39Z,main,https://api.github.com/repos/CatimaLoyalty/Android/zipball/main,5,2025-09-30T16:45:03+00:00,TRUE,TRUE,main,app/src/main/AndroidManifest.xml,TRUE,100K+,4.8,4.8,5,2025-09-30T16:45:03+00:00,me.hackerchick.catima,3,Shopping,"Stop the search for plastic reward cards during store or webshop checkout.
+Scan barcodes to your device using its camera, forget about cards.
+
+Forget your wallet, or keep it ultralight for valuables.
+
+With this essential everyday carry (EDC) tool you can replace useless plastic with cash.
+
+- Avoid spying with very few permissions. No Internet access and no ads.
+- Add cards or codes with names and customizable colours.
+- Manual code entry if there is no barcode to store, or it can't be used.
+- Import cards and codes from files, Catima, FidMe, Loyalty Card Keychain and Voucher Vault.
+- Make a backup of all your cards and transfer them to a new device if you want.
+- Share coupons, exclusive offers, promo codes, or cards and codes using any app.
+- Dark theme and accessibility options for vision impaired users.
+- Made for everyone by the libre software community.
+- Localized hand-made translations for 40+ languages.
+- Gratis, supported by community contributions.
+- Use, study, change and share it as you wish; with all.
+- Not only Free Software / Open Source. Copylefted libre software (GPLv3+) card management.
+
+Simplify your life and shopping, and never lose a paper receipt, in-store payment gift card or airplane ticket again.
+Take all your rewards and bonuses with you, and save as you go.",113,2025-10-01T15:59:23+00:00,112,2025-10-01T15:59:23+00:00,0,,0,
+patzly,tack-android,patzly/tack-android,https://github.com/patzly/tack-android,music,music,music,357,12,Java,2020-06-10T20:07:16Z,2025-09-29T03:11:46Z,main,https://api.github.com/repos/patzly/tack-android/zipball/main,5,2025-04-06T17:07:26+00:00,TRUE,TRUE,main,app/src/main/AndroidManifest.xml,TRUE,50K+,4.9,4.9,5,2025-04-06T17:07:26+00:00,xyz.zedler.patrick.tack,0,Music & Audio,"🎵 A Metronome You’ll Actually Love Using
+
+Tack is more than just a metronome — it’s a sleek, highly customizable rhythm companion built for musicians who care about precision and aesthetics. Whether you’re practicing alone or performing live, Tack helps you stay in perfect time without distractions.
+
+📱 On Your Phone — Powerful, Elegant, Thoughtful
+
+• Beautiful beat visualization with changeable emphasizes and subdivisions
+• Song library for saving and organizing metronome configurations
+• Options for count-in, duration, incremental tempo change, muted beats and swing
+• Settings for flash screen, volume, audio latency correction and elapsed time
+• Support for dynamic color, dynamic contrast and large screens
+• 100% ad-free – no analytics, no interruptions
+
+⌚️ On Your Wrist — Best-in-Class for Wear OS
+
+• Quick tempo changes with intuitive picker and a separate tap screen
+• Advanced beat customization with changeable emphasizes and subdivisions
+• Bookmarks for tempo, beats and subdivisions
+• Settings for flash screen, volume and audio latency correction
+
+🌍 Built with Musicians, for Musicians
+
+Tack is open-source and community-driven. Found a bug or missing a feature? You’re welcome to contribute or report issues here: github.com/patzly/tack-android
+Want to help translate Tack into your language? Join this project on Transifex: app.transifex.com/patzly/tack-android",20,2025-04-06T17:07:26+00:00,20,2025-04-06T17:07:26+00:00,0,,0,
+ap-atul,music_player_lite,ap-atul/music_player_lite,https://github.com/ap-atul/music_player_lite,music,music,music,138,22,Java,2021-05-03T08:29:53Z,2025-09-27T01:31:00Z,main,https://api.github.com/repos/ap-atul/music_player_lite/zipball/main,5,2025-04-27T13:53:04+00:00,TRUE,TRUE,main,src/app/src/main/AndroidManifest.xml,TRUE,10K+,4.1,4.1,5,2025-04-27T13:53:04+00:00,com.atul.musicplayer,3,Music & Audio,"A lightweight music player with the sole task of playing music.
+
+Key Features:
+ 🎵 No Ads forever
+ 🎵 Listen to music
+ 🎵 Simple and modern design
+ 🎵 Blazing fast performance and minimal battery usage
+ 🎵 Sleep Timer
+ 🎵 Manage the queue and shuffle/ repeat mode
+ 🎵 Change the accent of the app
+ 🎵 Manage folders to exclude(hide)
+ 🎵 Automatic scanning of media files
+ 🎵 Browse/ Sort/ Search albums and artists
+ 🎵 Change between Dark and Light Modes
+ 🎵 Create playlists by long pressing on music
+ 🎵 Easily search songs by keywords
+ 🎵 Lock screen controls and play in the notification bar
+ 🎵 Headset controls",17,2025-04-27T13:53:04+00:00,17,2025-04-27T13:53:04+00:00,0,,0,
+v2er-app,Android,v2er-app/Android,https://github.com/v2er-app/Android,blog,blog,blog,278,46,Java,2021-12-04T13:33:15Z,2025-09-28T16:28:47Z,main,https://api.github.com/repos/v2er-app/Android/zipball/main,5,2025-09-21T05:40:55+00:00,TRUE,TRUE,main,app/src/main/AndroidManifest.xml,TRUE,50K+,4.3,4.3,5,2025-09-21T05:40:55+00:00,me.ghui.v2er,0,Social,"设计简洁、功能丰富、交互流畅、后台纯净。每个页面布局设计都经过深思熟虑，以使你能够更好的畅游V2EX.
+
+问题反馈: https://github.com/v2er-app/Android/issues",9,2025-09-21T05:40:55+00:00,9,2025-09-21T05:40:55+00:00,0,,0,
+VincentEngel,VES-Image-Compare,VincentEngel/VES-Image-Compare,https://github.com/VincentEngel/VES-Image-Compare,image manager,image manager,image manager,122,9,Java,2022-04-24T17:29:02Z,2025-09-25T06:09:44Z,master,https://api.github.com/repos/VincentEngel/VES-Image-Compare/zipball/master,5,2025-07-05T14:46:54+00:00,TRUE,TRUE,master,app/src/main/AndroidManifest.xml,TRUE,10K+,4.8,4.8,5,2025-07-05T14:46:54+00:00,com.vincentengelsoftware.vesandroidimagecompare,3,Photography,"Photo compare App. Image compare App. Picture compare App. Before and After compare App.
+
+Do you have pictures that look similar and you can't decide which one you like better? With this app you can compare two pictures in different ways to find out which one is better. Through the various comparison options, you can quickly and easily determine even minor differences in the pictures.
+
+Perfect for comparing before and after pictures, before and after images and before and after photos.
+
+
+The App offers the following options to easily compare two similar photos:
+
+* Take photos with your camera or load them from your gallery
+
+* Share images and photos directly to the app to compare them
+
+* Rotate the images before comparing them
+
+* Resize the images to fit them to the screen
+
+* Zoom into each image individually or synchronously
+
+Comparison modes:
+
+* Side by Side: Show the images side by side
+
+* Overlay Tap: Place the images behind each other and tap on the screen to quickly switch between them
+
+* Overlay Slide: Place the images behind each other and adjust the width of the image in the front
+
+* Transparent: Place the images behind each other and adjust the transparency of the image in the front
+
+* Overlay Cut: Cut the image from one point to another in a straight line
+
+* MetaData: (Beta) Show all Meta Data, like Exif Data, side by side
+
+NO ADS and Privacy friendly. This App does not need access to the internet. All information is saved locally in your Apps Cache and can be deleted at any time through your Device Settings.",40,2025-07-05T14:46:54+00:00,16,2025-07-05T14:46:54+00:00,0,,0,
+sspanak,tt9,sspanak/tt9,https://github.com/sspanak/tt9,keyboard,keyboard,keyboard,374,61,Java,2022-07-02T06:46:52Z,2025-09-27T17:20:10Z,master,https://api.github.com/repos/sspanak/tt9/zipball/master,5,2025-09-24T07:31:29+00:00,TRUE,TRUE,master,app/src/main/AndroidManifest.xml,TRUE,50K+,4,4,5,2025-09-24T07:31:29+00:00,io.github.sspanak.tt9,3,Tools,"TT9 is a 12-key T9 keyboard for devices with a hardware numpad. It supports predictive text typing in 40+ languages, configurable hotkeys, text editing with undo/redo, and an on-screen keypad that can turn your smartphone into a Nokia from the 2000s. And, best of all, it doesn't spy on you!
+
+This is a modernized version of the Traditional T9 Keypad IME by Lee Massi (Clam-), with many new features and languages.
+
+Supported languages: Arabic, Bulgarian, Catalan, Simplified Chinese (Pinyin), Croatian, Czech, Danish, Dutch, English, Estonian, Farsi, Finnish, French, German, Greek, Gujarati (phonetic), Hebrew, Hindi (phonetic), Hinglish, Hungarian, Indonesian, Irish, Italian, Japanese (Romaji), Kiswahili, Korean, Latvian, Lithuanian, Norwegian, Polish, Portuguese (European and Brazilian), Romanian, Russian, Serbian (Cyrillic) Slovak, Slovenian, Spanish, Swedish, Moroccan Tamazight (Latin and Tifinagh), Thai, Turkish, Ukrainian, Vietnamese, Yiddish.
+
+Philosophy:
+- No ads, no premium or paid features. It's all free.
+- No spying, no tracking, no telemetry or reports. No nothing!
+- No unnecessary bells or whistles. It only does its job, typing.
+- The Full version operates entirely offline with no Internet permission. The Lite version connects only when downloading dictionaries from GitHub and when the voice input is active.
+- Open-source, so you can verify all the above yourself.
+- Created with help from the entire community.
+- Things it will (probably) never have: QWERTY layout, swipe-typing, GIFs and stickers, backgrounds or other customizations. ""It can be any color you like, as long as it is black.""
+- Not intended as a clone of Sony Ericsson, Nokia C2, Samsung, Touchpal, etc. It is understandable to miss your favorite old phone or keyboard app, but TT9 has its own unique design, inspired by the Nokia 3310 and 6303i. While it captures the feel of the classics, it offers its own experience and won’t replicate any device exactly.
+
+Thank you for understanding, and enjoy TT9!
+
+Please report bugs and start discussion only on GitHub: https://github.com/sspanak/tt9/issues",51,2025-09-24T07:31:29+00:00,51,2025-09-24T07:31:29+00:00,0,,0,
+TeamAmaze,AmazeFileManager,TeamAmaze/AmazeFileManager,https://github.com/TeamAmaze/AmazeFileManager,file manager,file manager,file manager,5776,1626,Kotlin,2014-07-14T19:47:53Z,2025-09-28T09:48:26Z,release/4.0,https://api.github.com/repos/TeamAmaze/AmazeFileManager/zipball/release/4.0,5,2024-02-17T19:42:49+00:00,TRUE,TRUE,release/4.0,app/src/main/AndroidManifest.xml,TRUE,1M+,3.5,3.5,5,2024-02-17T19:42:49+00:00,com.filemanager.amazecloud,12,Tools,"Overview:
+* Open Source, light and smooth
+* Based on Material Design guidelines
+* Basic features like cut, copy, delete, compress, extract etc. easily accessible
+* Work on multiple tabs at same time, support drag / drop gestures
+* Multiple themes with cool icons
+* Navigation drawer for quick navigation
+* App Manager to open, backup, or directly uninstall any app
+* FTP / FTPS Server support
+* SMB, SFTP Client support
+* Quickly access history, access bookmarks or search for any file
+* Root explorer for advanced users
+* AES Encryption and Decryption of files for security (Jellybean v4.3+)
+* Cloud services support (Jellybean v4.3+ / requires additional plug-in)*
+* Inbuilt Database Reader, Zip/Rar Reader, Apk Reader, Text Reader
+* No ads
+lots more...
+
+You can support us by purchasing our cloud plugin through Play Store (Amaze Cloud) or through in-app donations (Amaze Settings > About menu).
+
+This is the full version of app, you do not unlock anything on donations within the application.
+
+Join Telegram to discuss and help in the improvement of app, take part in development
+https://t.me/AmazeFileManager
+
+Source Code
+https://github.com/TeamAmaze/AmazeFileManager
+
+XDA thread
+https://forum.xda-developers.com/android/apps-games/app-amaze-file-managermaterial-theme-t2937314
+
+Team Amaze :
+Arpit Khurana
+Vishal Nehra
+Emmanuel
+Raymond Lai",20,2024-02-17T19:42:49+00:00,20,2024-02-17T19:42:49+00:00,0,,0,
+moezbhatti,qksms,moezbhatti/qksms,https://github.com/moezbhatti/qksms,SMS manager,SMS manager,SMS manager,4575,1071,Kotlin,2015-02-21T19:50:43Z,2025-09-28T11:06:35Z,master,https://api.github.com/repos/moezbhatti/qksms/zipball/master,5,2023-01-16T18:01:54+00:00,TRUE,TRUE,master,android-smsmms/src/main/AndroidManifest.xml;common/src/main/AndroidManifest.xml;data/src/main/AndroidManifest.xml;domain/src/main/AndroidManifest.xml;presentation/src/main/AndroidManifest.xml,TRUE,1M+,3.9,3.9,5,2023-01-16T18:01:54+00:00,com.moez.QKSMS,0,Communication,"We’re making texting magical again. QKSMS is the most beautiful messaging experience you’ve ever used. Replace your stock messaging app and fall in love with texting all over again.
+
+QKSMS is also completely ad-free and open source, the way your messaging app should be.
+
+New: Dual-SIM and Multi-SIM phones are now fully supported by QKSMS!
+
+Clean
+A beautiful, intuitive, and clutter-free design that allows you to focus on what matters.
+
+Customizable
+Use any of the millions of colors to theme the entire app, or any particular conversation. Per-contact notifications allow you to easily prioritize and distinguish your messages. Manual and automatic night mode are great too.
+
+Powerful
+Use MMS to share photos, stickers, or join your friends in a group chat. Conversation search allows you to find things easier than ever.
+
+Safe
+Easily Back up and Restore your messages, all without having to install another app.
+
+Private
+Easily block conversations and manage your blacklist, or automatically filter out spam with Should I Answer? integration.
+
+Convenient
+Reply to your messages from anywhere using the QK Reply popup, your Wear OS (Android Wear) watch, or directly from your notification shade (Android 7.0+)
+
+Accessibility
+High contrast black theme, and full support for TalkBack and Samsung Voice Assistant.
+
+We love hearing what you have to say, so always feel free to let us know whenever you have any feedback or suggestions!
+
+If you'd like to view the QKSMS source code, it's available on Github: https://github.com/moezbhatti/qksms/",7,2023-01-16T18:01:54+00:00,7,2023-01-16T18:01:54+00:00,0,,0,
+spacecowboy,Feeder,spacecowboy/Feeder,https://github.com/spacecowboy/Feeder,reader,reader,reader,2314,139,Kotlin,2014-08-28T12:50:32Z,2025-09-29T05:31:47Z,master,https://api.github.com/repos/spacecowboy/Feeder/zipball/master,5,2025-09-20T07:25:57+00:00,TRUE,TRUE,master,app/src/main/AndroidManifest.xml,TRUE,100K+,4.1,4.1,5,2025-09-20T07:25:57+00:00,com.nononsenseapps.feeder.play,2,Productivity,"Feeder is an open source feed reader (RSS/Atom/JSONFeed) for Android created in 2014.
+
+With Feeder you can read the latest news and posts from your favorite sites.
+
+Feeder does NOT sync with usual remote backends so no account registration of any kind is necessary.
+
+Feeder is free to use and runs locally on your device. Your data is 100% private.
+
+Features
+
+
+Parses HTML and displays it in a native TextView
+Offline reading
+Background synchronization
+Notifications
+OPML Import/Export
+Handy access to enclosure links
+Material design
+
+
+Full changelog is available on GitHub.",61,2025-09-20T07:25:57+00:00,61,2025-09-20T07:25:57+00:00,0,,0,
+allgood,OpenNoteScanner,allgood/OpenNoteScanner,https://github.com/allgood/OpenNoteScanner,scanner,scanner,scanner,1475,289,Kotlin,2016-02-10T11:14:38Z,2025-09-26T23:04:43Z,master,https://api.github.com/repos/allgood/OpenNoteScanner/zipball/master,5,2020-07-22T17:51:04+00:00,TRUE,TRUE,master,app/src/main/AndroidManifest.xml,TRUE,50K+,3,3,5,2020-07-22T17:51:04+00:00,com.todobom.opennotescanner,3,Productivity,"This little application provides a way on scanning handwritten notes and printed documents.
+
+It automatically detect the edge of the paper over a contrastant surface.
+
+If you have RocketBook Wave notebook or home printed pages it automatically detects the qrcode printed on the bottom right corner and scans the page immediately.
+
+After the page is detected, it compensates any perspective from the image adjusting it to a 90 degree top view and saves it on a folder on the device.
+
+It is also possible to launch the application from any other application that asks for a picture, just make sure that there is no default application associated with this action.
+
+Can be also installed from F-Droid: https://goo.gl/WwB9gB
+
+original source code and binary builds are available at: https://github.com/ctodobom/OpenNoteScanner",0,,0,,0,,0,
+SimonSchubert,LinuxCommandLibrary,SimonSchubert/LinuxCommandLibrary,https://github.com/SimonSchubert/LinuxCommandLibrary,manaul,manaul,manaul,1289,97,Kotlin,2014-06-19T00:11:40Z,2025-09-29T06:29:09Z,master,https://api.github.com/repos/SimonSchubert/LinuxCommandLibrary/zipball/master,5,2025-09-21T19:22:39+00:00,TRUE,TRUE,master,android/src/main/AndroidManifest.xml;common/src/androidMain/AndroidManifest.xml,TRUE,1M+,4.6,4.6,5,2025-09-21T19:22:39+00:00,com.inspiredandroid.linuxcommandbibliotheca,3,Books & Reference,"The app currently has 4608 manual pages, 21 basic categories and a bunch of general terminal tips. It works 100% offline, doesn't need an internet connection and has no tracking software.
+
+Categories
+
+* One-liners
+* System information
+* System control
+* Users & Groups
+* Files & Folders
+* Input
+* Printing
+* JSON
+* Network
+* Search & Find
+* GIT
+* SSH
+* Video & Audio
+* Package manager
+* Hacking tools
+* Terminal games
+* Crypto currencies
+* VIM
+* Emacs
+* Nano
+* Pico
+
+Tips
+
+* Clear and reset the terminal
+* List of recent commands
+* Close a frozen window/application
+* Tab Completion
+* Temporary aliases
+* Permanent aliases
+* Chain commands
+* Command syntax
+* Cursor navigation
+* Redirection
+* Special characters in commands
+* View file permissions
+* Modify file permissions
+* Set file permissions via binary references",39,2025-09-21T19:22:39+00:00,39,2025-09-21T19:22:39+00:00,0,,0,
+grote,Transportr,grote/Transportr,https://github.com/grote/Transportr,bus helper,bus helper,bus helper,1117,195,Kotlin,2013-09-06T10:00:57Z,2025-09-22T15:59:34Z,master,https://api.github.com/repos/grote/Transportr/zipball/master,5,2024-12-07T19:36:07+00:00,TRUE,TRUE,master,app/src/main/AndroidManifest.xml,TRUE,10K+,4.3,4.3,5,2024-12-07T19:36:07+00:00,de.grobox.liberario,3,Maps & Navigation,"Transportr is a non-profit app developed by people around the world in their free time.
+They want to make the use of public transport as easy as possible for everybody.
+
+This app uses the data of various local public transport agencies
+and provides a unified interface for them.
+It can not verify the correctness of the data
+and therefore offers no guarantees for the displayed information.
+Please use at your own risk.
+
+🛣️ Trip Routing. Just tell Transportr where you want to go!
+It will find the best connections for you, advises you where to change buses,
+and even gives you an estimated time of arrival.
+
+⏱️ Live Departures. Shows upcoming departures from any and all stations.
+In supported areas, real-time delays will be shown as well.
+
+🗽 Software Freedom. The source code for Transportr is 100% open.
+You can freely use, study, share and improve it.
+This app is only as good as you make it.
+You can even add your city yourself, if it is not already supported.
+
+🛰️ Finds your Position. Transportr uses GPS satellite navigation
+to keep track of your current position - so you never get lost.
+You can find nearby stations to start a new trip
+and then see how far along the journey you are.
+
+🌟 Remembers Favorite Places. To get you where you need to go faster,
+Transportr saves frequently used locations and trips.
+That way you do not need to type them over and over again.
+
+🚫 No Ads, No Tracking. This app does not display ads
+or annoying notifications.
+It also does not use tracking tools such as Google Analytics to spy on you.
+
+🗺️ Beautiful Maps. Displays stations or your entire trip on a map
+and always knows where you are to not miss where to get off the bus.",9,2024-12-07T19:36:07+00:00,9,2024-12-07T19:36:07+00:00,0,,0,
+mtotschnig,MyExpenses,mtotschnig/MyExpenses,https://github.com/mtotschnig/MyExpenses,money manager,money manager,money manager,1020,245,Kotlin,2012-02-29T15:13:40Z,2025-09-29T03:17:31Z,master,https://api.github.com/repos/mtotschnig/MyExpenses/zipball/master,5,2020-10-07T16:40:05+00:00,TRUE,TRUE,master,PlayLicensingOrig/AndroidManifest.xml;drive/src/main/AndroidManifest.xml;dropbox/src/main/AndroidManifest.xml;fints/src/main/AndroidManifest.xml;jackson/src/main/AndroidManifest.xml;mlkit/src/main/AndroidManifest.xml;mlkit_deva/src/main/AndroidManifest.xml;mlkit_han/src/main/AndroidManifest.xml;mlkit_jpan/src/main/AndroidManifest.xml;mlkit_kore/src/main/AndroidManifest.xml;mlkit_latn/src/main/AndroidManifest.xml;myExpenses/src/androidTest/AndroidManifest.xml;myExpenses/src/debug/AndroidManifest.xml;myExpenses/src/main/AndroidManifest.xml;ocr/src/main/AndroidManifest.xml;onedrive/src/main/AndroidManifest.xml;preferences/src/androidTest/AndroidManifest.xml;preferences/src/main/AndroidManifest.xml;setupwizard/main/AndroidManifest.xml;setupwizard/test/instrumentation/AndroidManifest.xml,TRUE,1M+,4.7,4.7,5,2020-10-07T16:40:05+00:00,org.totschnig.myexpenses,3,Finance,"My Expenses is your ultimate tool for effortless expense tracking and financial management, right at your fingertips!
+
+Key Features:
+
+    • Effortless Expense Tracking: Keep tabs on your expenses and income seamlessly, whether you're on your smartphone or tablet.
+    • Flexible Account Management: Effortlessly manage multiple accounts, including transfers between different currencies.
+    • Streamlined Financial Planning: Easily set up plans for recurring transactions.
+    • Seamless Data Management: Export and import data with ease using QIF and CSV formats.
+    • Enhanced Security: Protect your data with password or device lock screen security.
+    • Customizable Experience: Tailor the app to your preferences with customizable themes and font sizes.
+    • Bank Statement Reconciliation: Easily compare transaction status with your bank statements for accurate financial tracking.
+    • Quick Data Entry: Enjoy convenient access with homescreen widgets and shortcuts.
+    • Powerful Data Analysis: Filter your data based on various criteria and visualize distribution and historical trends with dynamic graphs.
+
+Unlock Premium Features:
+
+    • Contrib Key: Say goodbye to ads and unlock unlimited accounts, recurring transaction plans, and more.
+    • Extended Key: Enjoy cloud synchronization, automated backups, and sophisticated CSV imports.
+    • Professional Key: Take your financial management to the next level with budgeting tools, receipt scanning, and email support.
+
+My Expenses requires the following permissions:
+
+    • Calendar: Plans for future and recurrent transactions are stored either in a special local calendar or in any other calendar you assign.
+    • Internet: Anonymous usage tracking, Crash reports, Cloud synchronization.
+    • Accounts: Synchronization across devices via cloud services.
+
+Take control of your finances like never before using My Expenses!",1,2020-10-07T16:40:05+00:00,1,2020-10-07T16:40:05+00:00,0,,0,
+max-kammerer,orion-viewer,max-kammerer/orion-viewer,https://github.com/max-kammerer/orion-viewer,reader,reader,reader,247,61,Kotlin,2013-02-19T05:52:57Z,2025-09-27T13:25:42Z,master,https://api.github.com/repos/max-kammerer/orion-viewer/zipball/master,5,2025-05-14T07:48:32+00:00,TRUE,TRUE,master,common/src/androidMain/AndroidManifest.xml;common/src/main/AndroidManifest.xml;nativeLibs/djvuModule/src/main/AndroidManifest.xml;nativeLibs/mupdfModule/src/main/AndroidManifest.xml;orion-viewer/src/androidTest/AndroidManifest.xml;orion-viewer/src/main/AndroidManifest.xml;tree-view-list-android/AndroidManifest.xml,TRUE,100K+,3.5,3.5,5,2025-05-14T07:48:32+00:00,universe.constellation.orion.viewer,12,Books & Reference,"Open source pdf, djvu, xps, comic book (cbz, cbr, cbt) and tiff file viewer. Page scrolling is realized by screen touch (for more details see Menu/Settings/Tap Zones).
+
+Application features:
+* Outline navigation
+* Bookmarks support
+* Page navigation by screen taps + Tap Zones + Key binding
+* Text selection
+* Single word selection by double tap with translation in external dictionary
+* Custom zoom
+* Custom manual and auto border crop
+* Portrait/landscape orientation
+* Support different navigation patterns inside page (left to right, right to left)
+* External Dictionaries support
+* Built-in file manager with recently opened file view
+
+Orion Viewer is free, open source (GPL) project.
+To donate this project, you can buy Orion Viewer: Donation 1$, 3$ or 5$ package from market",42,2025-05-14T07:48:32+00:00,42,2025-05-14T07:48:32+00:00,0,,0,
+StepicOrg,stepik-android,StepicOrg/stepik-android,https://github.com/StepicOrg/stepik-android,video platform,video platform,video platform,191,54,Kotlin,2015-09-07T09:53:05Z,2025-08-27T16:01:09Z,master,https://api.github.com/repos/StepicOrg/stepik-android/zipball/master,5,2017-10-20T10:49:59+00:00,TRUE,TRUE,master,app/src/main/AndroidManifest.xml,TRUE,1M+,4.9,4.9,5,2017-10-20T10:49:59+00:00,org.stepic.droid,0,Education,"Learn anywhere you want with Stepik Mobile App. Stepik is a platform with the best online courses devoted to Computer Science and everything tech-related. Learn data structures, Python programming, statistics and many other useful skills.
+
+Access video lectures and assignments on the go.
+Download lectures to study even when you’re offline.
+Never forget a deadline by easily importing them in the calendar
+Connect with your fellow students and get your questions answered instantaneously by  engaging in the comment section.
+Set reminders to motivate yourself and study regularly to maintain and improve your personal record.
+Earn certificates and share them with your friends or improve your job prospects by sharing them on LinkedIn.
+Adjust the speed of the video playback for optimal learning experience.",68,2022-04-06T17:49:40+00:00,0,,0,,0,
+Adventech,sabbath-school-android,Adventech/sabbath-school-android,https://github.com/Adventech/sabbath-school-android,reader,reader,reader,189,54,Kotlin,2016-08-08T22:24:44Z,2025-09-18T17:48:42Z,main,https://api.github.com/repos/Adventech/sabbath-school-android/zipball/main,5,2018-01-10T00:52:29+00:00,TRUE,TRUE,main,app/src/main/AndroidManifest.xml,TRUE,1M+,4.8,4.8,5,2018-01-10T00:52:29+00:00,com.cryart.sabbathschool,0,Books & Reference,"Welcome to the official Sabbath School and Personal Ministries app of the General Conference of Seventh-day Adventists, powered by Adventech.
+The perfect app for studying and sharing God’s Word!
+
+Studying Sabbath School has never been easier. Now you can take your Sabbath School Bible study guide with you wherever you go.
+
+Mobile App content and features include:
+-  Adult Sabbath School Bible study guide, in both standard and easy reading editions, and the new InVerse Bible study guide for young adults
+-  Ellen White notes under each day’s reading
+-  Teacher notes and the Hope Sabbath School Outline for teachers
+-  Multiple language support
+-  Links to Bible references in 5 different Bible versions
+-  Type notes and highlight text
+-  Simple and easy to use interface
+
+
+Android TV features include:
+- Watch Sabbath School study videos",42,2025-07-12T03:57:29+00:00,37,2025-07-12T03:57:29+00:00,0,,0,
+wuan,bo-android,wuan/bo-android,https://github.com/wuan/bo-android,weather,weather,weather,128,34,Kotlin,2011-04-02T10:47:59Z,2025-09-29T01:39:27Z,main,https://api.github.com/repos/wuan/bo-android/zipball/main,5,2020-07-20T23:46:56+00:00,TRUE,TRUE,main,app/src/main/AndroidManifest.xml,TRUE,1M+,3.5,3.5,5,2020-07-20T23:46:56+00:00,org.blitzortung.android.app,3,Weather,"Simple to use map based application visualizing real time full area lightning data provided by the blitzortung.org lightning location network project. The current thunderstorm situation at your fingertips.
+
+Feature summary:
+ - realtime display of lightning data
+ - display of historical lightning data of the last 24 hours
+ - for regions Europe, North & South America, Asia, Africa and Australia/New Zealand
+ - lightning strike time color coded
+ - reduced data volume and fast response
+ - current lightning strike time and lightning count
+ - optional user location display
+ - alarm function shows distance/direction of storms
+ - alarm background service
+ - support for notifications and vibration alarm
+ - single stroke display for blitzortung.org participants
+
+Please visit http://www.blitzortung.org for more information regarding the community based lightning location project. http://www.blitzortung.org.
+
+The raster display ensures a fast performance of the application even if there is a very high thunderstorm activity. Blitzortung.org participants can visualize all stroke locations individually.
+
+If you would like to contribute to a translation of the software in your language, please do not hesitate to contact the author of the software.
+
+Note to Australian/US west coast users: The blitzortung.org network is currently concentrated on the eastern part of the continent. If you would like to help to extend the coverage to other parts of Australia/South America/Asia/Africa, please participate in the blitzortung.org network. Further information can be found here http://blitzortung.org/Webpages/index.php?page=2. Thank you!
+
+Project repository: https://github.com/wuan/bo-android
+
+Detailed documentation: https://blitzortung.tryb.de/docs/apps/android/basic/
+
+Using the GPS location provider in combination with the background service can lead to high battery use. Please use the network or the passive location provider for background operation.",18,2025-09-09T06:09:12+00:00,0,,0,,0,
+orgzly,orgzly-android,orgzly/orgzly-android,https://github.com/orgzly/orgzly-android,notes,notes,notes,2745,307,Kotlin,2017-02-03T14:48:34Z,2025-09-28T16:01:20Z,master,https://api.github.com/repos/orgzly/orgzly-android/zipball/master,5,2022-11-05T13:04:09+00:00,TRUE,TRUE,master,app/src/main/AndroidManifest.xml,TRUE,100K+,4.6,4.6,5,2022-11-05T13:04:09+00:00,com.orgzly,0,Productivity,"Orgzly is an outliner for taking notes and managing to-do lists.
+
+You can keep notebooks stored in plain-text and have them synchronized with a directory on your mobile device, SD card, Dropbox, or over WebDAV.
+
+Notebooks are saved in Org mode's file format. “Org mode is for keeping notes, maintaining TODO lists, planning projects, and authoring documents with a fast and effective plain-text system.” See https://orgmode.org for more information.",16,2022-11-05T13:04:09+00:00,16,2022-11-05T13:04:09+00:00,0,,0,
+kawaiiDango,pano-scrobbler,kawaiiDango/pano-scrobbler,https://github.com/kawaiiDango/pano-scrobbler,music,music,music,1597,40,Kotlin,2017-07-04T20:21:51Z,2025-09-28T16:14:51Z,main,https://api.github.com/repos/kawaiiDango/pano-scrobbler/zipball/main,5,2025-09-14T21:34:27+00:00,TRUE,TRUE,main,baselineprofile/src/main/AndroidManifest.xml;composeApp/src/androidMain/AndroidManifest.xml;extras-nonplay/src/androidMain/AndroidManifest.xml;extras-play/src/main/AndroidManifest.xml,TRUE,100K+,4.2,4.2,5,2025-09-14T21:34:27+00:00,com.arn.scrobble,0,Music & Audio,"Features:
+
+For all platforms:
+
+- No ads ever
+- Scrobbles to Lastfm, Librefm, ListenBrainz, Pleroma and other compatible services
+- View song, album, artist, album artist, and tag details
+- View scrobbles from a specific time, such as last year or last month
+- Extract or fix metadata such as ""Remastered"" with regex pattern edits
+- Extract the first artist from a string of all performers before scrobbling
+- Block artists, songs, etc., and automatically skip or mute when they play
+- Check what your followed users are listening to and view their stats
+- Import and export settings, edits, and blocklists
+- View charts with change indicators for specific time periods,
+- View scrobble count graphs and tag clouds
+- Get a random song, album, or artist from your listening history
+- Search Lastfm for a songs, artists, or albums
+- Themes
+- Remember and see apps you scrobbled from and play directly in them
+
+Android (except TV):
+
+- Scrobble to a CSV or JSONL file locally
+- Interactive notification - view song info, edit, love, cancel, or block songs directly from the
+  notification
+- Collage generator
+- Add or remove personal tags from the info screen
+- Edit or delete existing scrobbles. Remembers edits
+- Control Pano Scrobbler from automation apps on Android
+- Scrobble from music recognition apps and Pixel Now Playing
+- Charts as a customizable home-screen widget
+- Get your top scrobbles digests as a notification at the end of every week, month and year",83,2025-09-14T21:34:27+00:00,81,2025-09-14T21:34:27+00:00,0,,0,
+hanjoongcho,aaf-easydiary,hanjoongcho/aaf-easydiary,https://github.com/hanjoongcho/aaf-easydiary,diary,diary,diary,512,125,Kotlin,2017-08-17T16:56:05Z,2025-09-27T10:47:58Z,master,https://api.github.com/repos/hanjoongcho/aaf-easydiary/zipball/master,5,2020-08-22T02:54:50+00:00,TRUE,TRUE,master,app/src/main/AndroidManifest.xml,TRUE,50K+,4.3,4.3,5,2020-08-22T02:54:50+00:00,me.blog.korn123.easydiary,3,Lifestyle,"📢 All features are free without ads
+All the features of Easy Diary are free, without ads.
+
+📢 Applying improvement opinions using reviews
+Easy Diary checks users' opinions for improvement and applies them to application development.
+
+📢 Support features
+✍ Diary writing & editing
+Contents can be created or edited using the keypad and voice recognition function.
+
+🔍 Diary search
+You can quickly search for saved content. Words matching the searched keywords are highlighted and can be recognized at a glance.
+
+📅 Calendar
+Saved content can be checked by day using the calendar.
+
+🕒 Timeline
+Saved content can be checked in the form of a timeline according to the created time.
+
+🃏 Diary post card
+You can create a diary post card using the saved content (including the attached photo) and share it with your friends.
+Share your anniversary or holiday greetings by making them pretty as a post card.
+
+🔒 Diary lock
+The application can be locked or unlocked using a PIN (personal identification number) or fingerprint recognition function.
+
+🎨 Application theme setting
+You can set the theme of 171 different colors and use the color picker to change the text and text background color to your liking.
+
+🔤 Font setting
+There are three basic fonts provided by Easy Diary, and fonts set in the device can also be used.
+In addition, if you have TTF fonts you have, you can add them to the Easy Diary font directory and use them.
+
+📊 Chart view
+Diary writing status by time can be viewed at a glance in a bar chart.
+
+💾 Backup and recovery
+All content, including attached photos, can be backed up and restored using Google Drive.
+
+📢 Welcome Developer
+Are you a developer?
+If you click on the visit website link, there is a GitHub link where you can download or fork all the sources of Easy Diary.
+If it helped a little, please take a star.
+
+📢 Request Permissions
+Request permissions are classified into basic permissions (Normal Permissions) and permissions acquired after user approval (Dangerous Permissions). The types of permissions used in Easy Diary are as follows.
+📌 Normal Permissions
+1. FOREGROUND_SERVICE
+2. USE_FINGERPRINT
+3. INTERNET
+
+📌 Dangerous Permissions
+1. READ_EXTERNAL_STORAGE
+2. WRITE_EXTERNAL_STORAGE",0,,0,,0,,0,
+Crazy-Marvin,MetadataRemover,Crazy-Marvin/MetadataRemover,https://github.com/Crazy-Marvin/MetadataRemover,image manager,image manager,image manager,221,18,Kotlin,2017-12-16T12:22:07Z,2025-09-27T15:06:25Z,development,https://api.github.com/repos/Crazy-Marvin/MetadataRemover/zipball/development,5,2024-08-04T20:35:41+00:00,TRUE,TRUE,development,app/src/main/AndroidManifest.xml,TRUE,10K+,2.8,2.8,5,2024-08-04T20:35:41+00:00,rocks.poopjournal.metadataremover,1,Tools,"Protect your privacy by removing metadata from your photos, before sharing them on the internet!
+
+Features:
+
+ ✔️ View metadata
+ ✔️ Image preview
+ ✔️ Remove metadata
+ ✔️ Simple and intuitive interface
+ ✔️ Share directly from the app
+
+Learn more:
+
+Whenever you take a picture, additional metadata is saved in the image file.
+Most smartphones do not inform you about this.
+
+Metadata can look like this:
+ 🕑 On which day was the picture taken, and at which time?
+ 🗺️ And where exactly?
+ 📷 Which camera or which smartphone was used?
+ 🔧 And which camera settings were used?
+ 📝 Notes of the photographer or the camera?
+ 📌 More and more often, even exact GPS coordinates are saved in your photo.
+
+Metadata is sometimes very useful—for instance when sorting holiday photos.
+But as soon as you share photos with others via social media, all this information is visible publicly.
+Data collectors and stalkers would possibly be able to discover your place of residence or workplace from the metadata or draw conclusions about your daily routine.
+Tracking services could create more comprehensive advertising profiles and sell your data to other organizations.
+
+With our app, you can easily view all that data, remove it entirely, and then share the anonymized photo directly!
+That way you stay anonymous and safe in internet, while your friends can still admire your cute cat.
+
+Happy sharing! 😽",6,2024-08-04T20:35:41+00:00,5,2024-08-04T20:35:41+00:00,0,,0,
+wbrawner,SimpleMarkdown,wbrawner/SimpleMarkdown,https://github.com/wbrawner/SimpleMarkdown,notes,notes,notes,210,18,Kotlin,2017-07-25T04:34:41Z,2025-09-24T07:24:34Z,main,https://api.github.com/repos/wbrawner/SimpleMarkdown/zipball/main,5,2021-02-22T02:12:03+00:00,TRUE,TRUE,main,app/src/main/AndroidManifest.xml,TRUE,50K+,4.1,4.1,5,2021-02-22T02:12:03+00:00,com.wbrawner.simplemarkdown,0,Productivity,"Simple Markdown is an open source markdown editor that (surprise) allows you to quickly and easily edit markdown files, and then share them as you please.
+
+If you find any bugs, you can submit them here:
+https://github.com/wbrawner/SimpleMarkdown/issues
+
+If you'd like to contribute to the code, you can find it here:
+https://github.com/wbrawner/SimpleMarkdown
+
+Also feel free to contact me directly if you have any questions or concerns :)",1,2021-02-22T02:12:03+00:00,1,2021-02-22T02:12:03+00:00,0,,0,
+d4rken-org,bluemusic,d4rken-org/bluemusic,https://github.com/d4rken-org/bluemusic,bluetooth manager,bluetooth manager,bluetooth manager,141,7,Kotlin,2016-12-26T16:52:43Z,2025-09-23T16:06:26Z,main,https://api.github.com/repos/d4rken-org/bluemusic/zipball/main,5,2025-08-15T11:30:26+00:00,TRUE,TRUE,main,app/src/main/AndroidManifest.xml,TRUE,1M+,3.8,3.8,5,2025-08-15T11:30:26+00:00,eu.darken.bluemusic,0,Tools,"Bluetooth Volume Manager can react to Bluetooth devices connecting or disconnecting.
+It allows Android to remember the volume levels of different Bluetooth devices.
+
+Available features:
+• Music, call, ringtone and notification volume adjustment.
+• Sending out 'Play' or 'Next' media commands.
+• Opening a specific app.
+• Keeping the screen awake.
+• Preventing the volume from being changed.
+• Restoring previous volume levels after disconnect.
+
+This app can't ""boost"" your volume or change the volume if you can't change it through your device's volume buttons manually.
+
+Permissions explained:
+• 'Internet' for bug reports.
+• 'Bluetooth' to work with Bluetooth devices.
+• 'Modify audio settings' to change volume.
+• 'Boot completed' to restore volume levels after reboots.
+• 'WAKE_LOCK' to fix a bug on Samsung devices and to keep the screen awake if necessary.
+• 'SYSTEM_ALERT_WINDOW' to launch apps when a Bluetooth device connects (only on Android 10).",27,2025-08-15T11:30:26+00:00,26,2025-08-15T11:30:26+00:00,0,,0,
+Anrimian,music-player,Anrimian/music-player,https://github.com/Anrimian/music-player,music,music,music,106,21,Kotlin,2017-11-13T20:47:25Z,2025-09-09T22:39:31Z,master,https://api.github.com/repos/Anrimian/music-player/zipball/master,5,2025-08-10T16:28:12+00:00,TRUE,TRUE,master,app/src/main/AndroidManifest.xml,TRUE,1M+,4.4,4.4,5,2025-08-10T16:28:12+00:00,com.github.anrimian.musicplayer,0,Music & Audio,"Simple offline music player.
+Suitable if you just need to play music from your phone.
+
+The application has the following functionality:
+&nbsp;&nbsp;&nbsp;&nbsp; • Display music library on the device, by compositions, folders, artists, albums or genres.
+&nbsp;&nbsp;&nbsp;&nbsp; • Playing music, sequentially or randomly.
+&nbsp;&nbsp;&nbsp;&nbsp; • Interaction with local playlists: play, add and delete songs.
+
+Additionally:
+&nbsp; • App widgets support
+&nbsp; • Dark theme
+&nbsp; • Headset support
+  • Edit composition tags
+  • Sleep timer
+  • Simple equalizer support
+  • Android auto support
+  • Possibility to change playback speed
+  • No tracking or any analytics",21,2025-08-10T16:28:12+00:00,5,2025-08-10T16:28:12+00:00,0,,0,
+zhanghai,MaterialFiles,zhanghai/MaterialFiles,https://github.com/zhanghai/MaterialFiles,file manager,file manager,file manager,7416,534,Kotlin,2018-05-27T23:22:03Z,2025-09-28T11:27:32Z,master,https://api.github.com/repos/zhanghai/MaterialFiles/zipball/master,5,2024-06-30T05:17:48+00:00,TRUE,TRUE,master,app/src/main/AndroidManifest.xml,TRUE,1M+,4.7,4.7,5,2024-06-30T05:17:48+00:00,me.zhanghai.android.files,3,Tools,"An open source Material Design file manager.
+
+Features:
+- Open source: Lightweight, clean and secure.
+- Material Design: Follows Material Design guidelines, with attention into details.
+- Breadcrumbs: Navigate in the filesystem with ease.
+- Root support: View and manage files with root access.
+- Archive support: View, extract and create common compressed files.
+- NAS support: View and manage files on FTP, SFTP, SMB and WebDAV servers.
+- Themes: Customizable UI colors, plus night mode with optional true black.
+- Linux-aware: Knows symbolic links, file permissions and SELinux context.
+- Robust: Uses Linux system calls under the hood, not yet another ls parser.
+- Well-implemented: Built upon the right things, including Java NIO2 File API and LiveData.
+
+https://github.com/zhanghai/MaterialFiles",18,2024-06-30T05:17:48+00:00,18,2024-06-30T05:17:48+00:00,0,,0,
+RetroMusicPlayer,RetroMusicPlayer,RetroMusicPlayer/RetroMusicPlayer,https://github.com/RetroMusicPlayer/RetroMusicPlayer,music,music,music,4705,846,Kotlin,2018-07-27T12:21:51Z,2025-09-29T12:42:02Z,dev,https://api.github.com/repos/RetroMusicPlayer/RetroMusicPlayer/zipball/dev,5,2025-08-09T07:16:03+00:00,TRUE,TRUE,dev,app/src/main/AndroidManifest.xml,TRUE,1M+,4.4,4.4,5,2025-08-09T07:16:03+00:00,code.name.monkey.retromusic,3,Music & Audio,"**If the app keeps crashing after the new update, please clear app data and it will work**
+
+It will become your favorite music player ♥
+
+
+🧭Navigation never made easier
+
+Self-explanatory interface without overloaded menus.
+
+🎨Colorful
+
+You can choose between three different main themes: Clearly white, Kind dark and Just black for AMOLED displays. Select
+your favorite accent color from a color palette.
+
+🏠Home
+
+Where you can have your recently/ top played Artists, Albums and Favorite Songs. No other music player has this feature
+
+📦Included Features
+
+⭐ Base 3 themes (Clearly white, Kinda dark and Just Black)
+
+⭐ Choose from 10+ now playing themes
+
+⭐ Drive Mode
+
+⭐ Headset/Bluetooth support
+
+⭐ Music Duration Filter
+
+⭐ Folder support - Play song by folder
+
+⭐ Gapless playback
+
+⭐ Volume controls
+
+⭐ Carousel effect for an album cover
+
+⭐ Homescreen Widgets
+
+⭐ Lock Screen Playback Controls
+
+⭐ Lyrics Screen(download and sync with music)
+
+⭐ Sleep Timer
+
+⭐ Homescreen Widgets
+
+⭐ Easy Drag to Sort Playlist & Play Queue
+
+⭐ Tag editor
+
+⭐ Create, Edit, Import playlists
+
+⭐ Playing queue with reorder
+
+⭐ User profile
+
+⭐ 30 Languages support
+
+⭐ Browse and play your music by Songs, Albums, Artists, Playlists, Genre
+
+⭐ Smart Auto Playlists - Recently played/Top Played/History Fully playlist support & Build your own playlist on the go
+
+We are trying our best to bring you the best user experience. Until now it is a beta version - bug fixes (if any) and more features are on the way.
+
+
+In any case, you find or notice any Bugs/ Crashes please report them by sending us an e-mail. We will respond or fix Bugs/ Crashes as soon as possible and if you have any Features/ Suggestions in mind please Follow below links to support
+
+
+Telegram: https://t.me/retromusicapp
+
+Github: https://github.com/h4h13/RetroMusicPlayer
+
+
+Licenses for the album covers used in the screenshots:
+
+
+https://unsplash.com/photos/aWXVxy8BSzc
+
+https://unsplash.com/photos/JAHdPHMoaEA
+
+https://unsplash.com/photos/D_LYjtHnDXE
+
+https://unsplash.com/photos/49wtmkUVmFQ
+
+https://unsplash.com/photos/wnX-fXzB6Cw
+
+https://unsplash.com/photos/c-NBiJrhwdM
+
+
+Please note:
+
+Retro Music player is offline local mp3 player app. It don't support online music download or music streaming.",23,2025-08-09T07:16:03+00:00,23,2025-08-09T07:16:03+00:00,0,,0,
+oppia,oppia-android,oppia/oppia-android,https://github.com/oppia/oppia-android,video platform,video platform,video platform,369,566,Kotlin,2018-09-10T03:25:11Z,2025-09-26T16:45:26Z,develop,https://api.github.com/repos/oppia/oppia-android/zipball/develop,5,2021-10-13T01:49:28+00:00,TRUE,TRUE,develop,app/src/main/AndroidManifest.xml,TRUE,100K+,,,5,2021-10-13T01:49:28+00:00,org.oppia.android,0,Education,"Learn and practice basic math through fun, free and interactive lessons
+
+WHY OPPIA?
+
+• Learn everything from Place Values to Multiplication and Division with a comprehensive curriculum (best for grades 1-4, ages 7-14)
+
+• Effective lessons reviewed by experts
+
+• Fun story-based lessons that engage children and teenagers
+
+• Downloadable lessons to continue learning even without internet access
+
+• Currently available in English, Brazilian Portuguese, Arabic and Nigerian Pidgin.
+
+
+FUN AND ENGAGING
+
+Our high-quality lessons are designed around fun, engaging stories that students can engage with. This makes students excited to learn, and feel like they’re playing a game. Over 90% of students would recommend our lessons to a friend and over 97% have said they find Oppia lessons to be fun.
+
+
+AVAILABLE OFFLINE 
+
+All lessons on the app are downloadable so you can play them even without consistent internet access - perfect for when students are on the go and want to learn on their own.
+
+
+DESIGNED AND TESTED FOR EFFECTIVENESS
+
+We have tested Oppia’s 35+ lessons to make sure they are effective. Our learners see over 50% improvements in math between pre- and post-tests.
+
+
+VOICEOVERS TO HELP NEW READERS
+
+For learners who might be new to reading, our lessons have audio voiceover options so students can listen along - making them accessible to learners of all ages!
+
+
+TO PARENTS AND TEACHERS:
+
+Thousands of learners around the world have benefitted from Oppia’s effective and engaging lessons both at home and at school. While Oppia has worked well for learners who are studying on their own, they can improve even faster with the help of a parent, teacher, or older child. Feel free to use Oppia in whatever way helps your student learn best, and in whatever environment is available to you.
+
+No ads or purchases needed
+
+The Oppia app does not contain any advertisements or third-party content, so learners will remain safe and focused on learning while using the app.
+
+TESTIMONIALS
+
+See why thousands of learners, parents and teachers have already downloaded and love the app!
+
+""Oppia has helped me see things I learn in real life with examples. I liked everything about Oppia. I also like the stories."" - Jehdel, student
+
+""I have always been shy at classes and I never answer my teacher because I do not like to make mistakes. Through Oppia, I feel more confident, because if I made mistakes, I have the chance to re-solve the question again, and to get the issue explained in multiple ways."" - Seneen, student
+
+""Bringing [Oppia] to the school is what will motivate the students. Students are not only supposed to learn around the 4 corners of the classroom; they are meant to learn from things they see every day. From what I saw by myself with Oppia, I can confirm this is so."" - Mrs. Ndubisi, Mathematics teacher
+
+“It feels good to find such content on the internet. I was worried about my children's education through this pandemic, these lessons are keeping my kids' minds sharp and active."" - Jamal, parent
+
+""I liked Oppia; I like the way the woman reads for me; I also like that it makes mathematics easier. I will tell others about Oppia so that mathematics can be easier for them as well."" - Marvelous, student
+
+--------------------------
+
+WANT TO LEARN MORE?
+
+More lessons, content, and languages are always being added on our web learning platform at oppia.org.
+
+ABOUT THE DEVELOPERS
+
+The Oppia app is developed by a community of passionate volunteers and experts through the Oppia Foundation - a 501(c)(3) nonprofit dedicated to making sure everyone has access to high-quality education.
+
+You can learn more about us and our amazing team at https://oppia.org/about
+
+If you would like to reach out for support or questions, you can do so at admin@oppia.org.",16,2025-10-01T03:29:38+00:00,7,2022-05-19T21:25:50+00:00,0,,0,
+michelesalvador,FamilyGem,michelesalvador/FamilyGem,https://github.com/michelesalvador/FamilyGem,people manager,people manager,people manager,160,40,Kotlin,2018-11-01T14:29:02Z,2025-09-25T17:28:05Z,master,https://api.github.com/repos/michelesalvador/FamilyGem/zipball/master,5,2025-06-23T17:16:50+00:00,TRUE,TRUE,master,app/src/main/AndroidManifest.xml,TRUE,100K+,4.1,4.1,5,2025-06-23T17:16:50+00:00,app.familygem,0,Tools,"Family Gem is a tool that let you create complete genealogical trees.
+You can insert names, dates, places, events and photos into the profile of family members and foremost the relationship between them, and automagically your family tree will take shape.
+Family Gem can exchange trees with other programs through a GEDCOM file.",10,2025-06-23T17:16:50+00:00,10,2025-06-23T17:16:50+00:00,0,,0,
+michaldrabik,showly,michaldrabik/showly,https://github.com/michaldrabik/showly,movie,movie,movie,1243,74,Kotlin,2019-08-21T13:26:06Z,2025-09-28T16:55:04Z,master,https://api.github.com/repos/michaldrabik/showly/zipball/master,5,2025-09-28T10:23:09+00:00,TRUE,TRUE,master,app/src/main/AndroidManifest.xml,TRUE,1M+,4.4,4.4,5,2025-09-28T10:23:09+00:00,com.michaldrabik.showly2,0,Entertainment,"PLEASE NOTE:
+This app is not meant for watching tv shows or movies.
+For that purpose please use official streaming services apps.
+
+Showly is an open source, modern TV Shows & Movies tracker app that works together with Trakt.
+
+Progress
+Track progress of your currently watched shows and movies. See incoming premieres and never miss an upcoming episode.
+
+Discover
+Browse and search for most popular, trending and anticipated TV Shows and Movies suggestions and recommendations.
+
+View detailed information about each show, episode, movie and read comments. Refine the feed to match your personal preferences.
+
+Collection
+Manage your currently watched shows and movies and also things you might want to see in the future. See interesting statistics about your collection.
+
+Custom Lists
+Manage your own custom shows and movies lists.
+
+Trakt.tv Sync
+Sign into your Trakt account and synchronize your progress and watchlist with Showly.
+
+Notifications & Widgets
+Receive optional notifications about new episodes, seasons and premieres. Use widgets and home shortcuts to quickly access your favourite sections.
+
+Premium
+Purchase Showly Premium and gain access to amazing bonus features like: news section, light theme, custom images, quick rate and many more!
+
+Showly supports multiple languages.
+
+Showly allows to keep track of all your shows including those on ABC, NBC, CBS, Fox, The CW, Netflix, Hulu, Amazon, HBO, MTV, Bravo, BBC, Channel 4, ITV, Sky and more!
+
+Showly is an open source project.
+Feel free to visit project's website and report issues at:
+https://github.com/michaldrabik/showly-2.0
+
+Follow our Twitter for news and app status info:
+https://twitter.com/AppShowly
+
+Showly is powered by Trakt.tv and TMDB services (but is not certified by any of them).",12,2025-09-28T10:23:09+00:00,12,2025-09-28T10:23:09+00:00,0,,0,
+SamAmco,track-and-graph,SamAmco/track-and-graph,https://github.com/SamAmco/track-and-graph,healthy manager,healthy manager,healthy manager,540,46,Kotlin,2019-08-15T13:54:40Z,2025-09-25T22:51:17Z,master,https://api.github.com/repos/SamAmco/track-and-graph/zipball/master,5,2025-09-29T20:02:21+00:00,TRUE,TRUE,master,app/src/main/AndroidManifest.xml,TRUE,50K+,4.4,4.4,5,2025-09-29T20:02:21+00:00,com.samco.trackandgraph,3,Productivity,"Track & Graph: Dashboards for life
+
+Track & Graph helps you record, visualize, and understand patterns in your daily life. Record numerical values or simple occurrences to build personal dashboards that provide insights into your habits, behaviors, and activities.
+
+Visualize your data through line graphs, pie charts, and statistical reports that show trends, moving averages, and intervals between events. Organize tracking items into customizable groups that make sense for your needs.
+
+Track & Graph now embeds a Lua scripting API, allowing you to create custom calculations (like cumulative totals, differentials, or financial metrics).
+
+Track & Graph is completely free and open source with no ads, accounts, or in-app purchases. Your data remains private—stored only on your device—and can be easily backed up at any time.",69,2025-09-29T20:02:21+00:00,68,2025-09-29T20:02:21+00:00,0,,0,
+z-huang,InnerTune,z-huang/InnerTune,https://github.com/z-huang/InnerTune,music,music,music,5664,363,Kotlin,2020-02-11T03:02:58Z,2025-09-29T06:19:12Z,dev,https://api.github.com/repos/z-huang/InnerTune/zipball/dev,5,2024-09-01T15:22:41+00:00,TRUE,TRUE,dev,app/src/main/AndroidManifest.xml,TRUE,100K+,4.2,4.2,5,2024-09-01T15:22:41+00:00,com.arn.scrobble,0,Music & Audio,"Features:
+
+For all platforms:
+
+- No ads ever
+- Scrobbles to Lastfm, Librefm, ListenBrainz, Pleroma and other compatible services
+- View song, album, artist, album artist, and tag details
+- View scrobbles from a specific time, such as last year or last month
+- Extract or fix metadata such as ""Remastered"" with regex pattern edits
+- Extract the first artist from a string of all performers before scrobbling
+- Block artists, songs, etc., and automatically skip or mute when they play
+- Check what your followed users are listening to and view their stats
+- Import and export settings, edits, and blocklists
+- View charts with change indicators for specific time periods,
+- View scrobble count graphs and tag clouds
+- Get a random song, album, or artist from your listening history
+- Search Lastfm for a songs, artists, or albums
+- Themes
+- Remember and see apps you scrobbled from and play directly in them
+
+Android (except TV):
+
+- Scrobble to a CSV or JSONL file locally
+- Interactive notification - view song info, edit, love, cancel, or block songs directly from the
+  notification
+- Collage generator
+- Add or remove personal tags from the info screen
+- Edit or delete existing scrobbles. Remembers edits
+- Control Pano Scrobbler from automation apps on Android
+- Scrobble from music recognition apps and Pixel Now Playing
+- Charts as a customizable home-screen widget
+- Get your top scrobbles digests as a notification at the end of every week, month and year",26,2024-09-01T15:22:41+00:00,26,2024-09-01T15:22:41+00:00,0,,0,
+zend10,AL-chan,zend10/AL-chan,https://github.com/zend10/AL-chan,video platform,video platform,video platform,297,15,Kotlin,2020-02-05T14:28:56Z,2025-09-22T15:39:02Z,master,https://api.github.com/repos/zend10/AL-chan/zipball/master,5,2024-08-25T05:50:58+00:00,TRUE,TRUE,master,app/src/main/AndroidManifest.xml,TRUE,100K+,3.9,3.9,5,2024-08-25T05:50:58+00:00,com.zen.alchan,0,Entertainment,"AL-chan is an unofficial client for AniList, a place where you can track, share, discover, and experience Anime and Manga.
+
+You can't watch anime or read manga in this app. This is only an app for anilist.co.
+
+Features so far:
+- Manage your anime and manga lists.
+- Support various types of scoring method and custom lists.
+- Customise your anime and manga lists.
+- Find out your anime's release schedule.
+- See the most popular and the highest rated anime and manga.
+- Seasonal chart to see what anime are coming next.
+- Search for anime, manga, characters, staff, and studios.
+- View detailed info of anime, manga, characters, staffs, and studios.
+- Robust stats based on your anime and manga lists.
+- View recommendations and read reviews.
+- Interact with the community.
+- Light and Dark theme.
+
+For any feedback, you can find express it at:
+- The provided GitHub link.
+- The provided Email address.
+- Twitter at @alchan_app.",5,2024-08-25T05:50:58+00:00,5,2024-08-25T05:50:58+00:00,0,,0,
+JLindemann42,Atomic-Periodic-Table.Android,JLindemann42/Atomic-Periodic-Table.Android,https://github.com/JLindemann42/Atomic-Periodic-Table.Android,chemistry,chemistry,chemistry,198,5,Kotlin,2020-01-10T22:21:55Z,2025-09-22T01:48:56Z,master,https://api.github.com/repos/JLindemann42/Atomic-Periodic-Table.Android/zipball/master,5,2025-08-05T19:37:11+00:00,TRUE,TRUE,master,app/src/main/AndroidManifest.xml,TRUE,50K+,4.4,4.4,5,2025-08-05T19:37:11+00:00,com.jlindemann.science,0,Education,"The open-source Periodic Table app that offers an intuitive and user-friendly experience for all levels of chemistry and physics enthusiasts. Whether you're looking for basic information like atomic weight or advanced data on isotopes and ionization energies, Atomic has you covered. Enjoy a clutter-free, ad-free interface that provides all the data you need for your projects.
+
+• No Ads, Just Data: Experience a seamless, ad-free environment with no distractions.
+• Regular Updates: Expect bi-monthly updates with new data sets, additional details, and enhanced visualization options.
+
+Key Features:
+• Intuitive Periodic Table: Access a dynamic periodic table that adapts to your needs with a simple. Using the International Union of Pure and Applied Chemistry (IUPAC) Table.
+• Molar Mass Calculator: Easily calculate the mass of various compounds.
+• Unit Conveter: Easily convert from one unit to another
+• Flashcards: Learn the periodic table with built in learning-games.
+• Electronegativity Table: Compare electronegativity values between elements effortlessly.
+• Solubility Table: Determine compound solubility with ease.
+• Isotope Table: Explore over 2500 isotopes with detailed information.
+• Poisson's Ratio Table: Find Poisson's ratio for different compounds.
+• Nuclide Table: Access comprehensive nuclide decay data.
+• Geology Table: Identify minerals quickly and accurately.
+• Constants Table: Reference common constants for math, physics, and chemistry.
+• Electrochemical Series: View electrode potentials at a glance.
+• Dictionary: Enhance your understanding with an inbuilt chemistry and physics dictionary.
+• Element Details: Get in-depth information about every element.
+• Favorite Bar: Customize and prioritize the element details most important to you.
+• Notes: Take and save notes for each element to aid your studies.
+• Offline Mode: Save data and work offline by disabling image loading.
+
+Examples of Data sets included:
+• Atomic Number
+• Atomic Weight
+• Discovery Details
+• Group
+• Appearance
+• Isotope Data - 2500+ isotopes
+• Density
+• Electronegativity
+• Block
+• Electron Shell details
+• Boiling Point (Kelvin, Celsius and Fahrenheit)
+• Melting Point (Kelvin, Celsius and Fahrenheit)
+• Electron Configuration
+• Ion Charge
+• Ionization Energies
+• Atomic Radius (Empirical and calculated)
+• Covalent Radius
+• Van Der Waals Radius
+• Phase (STP)
+• Protons
+• Neutrons
+• Isotope Mass
+• Halflife
+• Fusion Heat
+• Specific Heat Capacity
+• Vaporization Heat
+• Radioactive properties
+• Mohs hardness
+• Vickers hardness
+• Brinell hardness
+• Sound of speed
+• Poissons ratio
+• Young Modulus
+• Bulk Modulus
+• Shear Modulus
+• Crystal Structure & Properties
+• CAS
+• And more",13,2025-08-05T19:37:11+00:00,13,2025-08-05T19:37:11+00:00,0,,0,
+More-Than-Solitaire,Tabs-Lite,More-Than-Solitaire/Tabs-Lite,https://github.com/More-Than-Solitaire/Tabs-Lite,music manager,music manager,music manager,112,10,Kotlin,2020-03-21T20:39:39Z,2025-09-29T05:42:22Z,master,https://api.github.com/repos/More-Than-Solitaire/Tabs-Lite/zipball/master,5,2025-05-19T17:59:28+00:00,TRUE,TRUE,master,app/src/main/AndroidManifest.xml,TRUE,10K+,4.4,4.4,5,2025-05-19T17:59:28+00:00,com.gbros.tabslite,0,Music & Audio,"Find your favorites among over a million available community driven chords and tabs!  Play along at your own speed with built-in auto scroll and speed adjustment.
+
+Key changes are as simple as a touch of a button with built in transposition.  Or find the fingering for your chord by simply tapping the chord name!  Jam at any time of day or night with Dark Mode.
+
+Save songs for offline access by adding them to your Favorites.  Quickly find the content you're looking for with a beautiful Material Design built for speed and simplicity.  Search hundreds of thousands of available songs by title or author name, 100% free with no ads!
+
+Sort your favorite songs into Playlists, available offline automatically. Rearrange songs, save custom transposition levels, and add the same song more than once!
+
+You can back up your saved favorites and playlists securely by exporting them from the Tabs Lite menu.
+
+Note from the developer:
+Thanks for downloading my app!  Hope you like it.  It's completely free, and I developed it because there wasn't anything quite good enough on the app store.  This is a side project that I develop in my free time, so it may not get updated as often as I may like, but I still try to keep up with it.  If you can think of anything that would be nice to have, or run into an issue with the app, leave a review or contact me at support@tabslite.com and I'll be sure to get back to you!",11,2025-05-19T17:59:28+00:00,11,2025-05-19T17:59:28+00:00,0,,0,
+jellyfin,jellyfin-android,jellyfin/jellyfin-android,https://github.com/jellyfin/jellyfin-android,video platform,video platform,video platform,2089,334,Kotlin,2020-07-21T11:33:44Z,2025-09-29T09:23:23Z,master,https://api.github.com/repos/jellyfin/jellyfin-android/zipball/master,5,2025-05-16T19:44:21+00:00,TRUE,TRUE,master,app/src/main/AndroidManifest.xml,TRUE,1M+,4.2,4.2,5,2025-05-16T19:44:21+00:00,org.jellyfin.mobile,3,Video Players & Editors,"Your media, on your terms.
+
+This is the official Jellyfin companion app for Android.
+
+The Jellyfin project is an open source, free software media server. No fees, no tracking,  no hidden agenda. Get our free server to collect all your audio, video, photos, and more in one place.
+
+To use the app, you must have a Jellyfin server set up and running. Find out more at https://jellyfin.org
+
+With a Jellyfin server, you can:
+- Watch Live TV and recorded shows from your Jellyfin server (additional hardware/services required)
+- Stream to a Chromecast device on your network
+- Stream your media to your Android device
+- View your collection in an easy to use interface
+- Listen to your music with Android Auto (online only)
+
+Thank you for using Jellyfin!",42,2025-05-16T19:44:21+00:00,42,2025-05-16T19:44:21+00:00,0,,0,
+axiel7,MoeList,axiel7/MoeList,https://github.com/axiel7/MoeList,movie,movie,movie,598,21,Kotlin,2020-08-02T13:01:49Z,2025-09-29T03:53:20Z,master,https://api.github.com/repos/axiel7/MoeList/zipball/master,5,2025-06-13T11:52:57+00:00,TRUE,TRUE,master,app/src/main/AndroidManifest.xml,TRUE,100K+,4.2,4.2,5,2025-06-13T11:52:57+00:00,com.axiel7.moelist,0,Entertainment,"MoeList is an unofficial MAL (MyAnimeList) client, with this app you can easily track, rate, organize and discover new Anime & Manga.",45,2025-06-13T11:52:57+00:00,45,2025-06-13T11:52:57+00:00,0,,0,
+syt0r,Kanji-Dojo,syt0r/Kanji-Dojo,https://github.com/syt0r/Kanji-Dojo,translator,translator,translator,533,33,Kotlin,2020-12-27T20:03:51Z,2025-09-26T03:46:02Z,develop,https://api.github.com/repos/syt0r/Kanji-Dojo/zipball/develop,5,2025-08-12T13:54:49+00:00,TRUE,TRUE,develop,app/src/main/AndroidManifest.xml,TRUE,50K+,4.7,4.7,5,2025-08-12T13:54:49+00:00,ua.syt0r.kanji,0,Education,"Learn how to write Japanese characters, memorize the correct stroke order, practice recalling meanings and readings of kana and kanji using flashcards with vocabulary examples. Keep studying anywhere, anytime without wasting tons of paper
+
+Main Features:
+• Suitable for absolute beginners and advanced users - can study hiragana, katakana and kanji
+• Flexible learning process: follow JLPT levels, school grades or Wanikani levels, or mix all of them!
+• Rich kanji coverage, more than 6000 characters in total and many more words are available
+• Uses a Spaced Repetition System to help retain learned information
+• No paid or locked content
+• Includes dictionary with a search function
+• The app is open source, you can suggest new features and collaborate on development
+
+The app uses the Spaced Repetition System (SRS) - a highly effective learning method that optimizes the timing of reviews based on how well you remember information. You can set a daily limit to control your workload at a comfortable level and enable daily notification reminder in the application's settings to stay consistent and make sure that memorized information is retained
+
+Good luck on your way to mastering Japanese!",28,2025-08-12T13:54:49+00:00,28,2025-08-12T13:54:49+00:00,0,,0,
+pakka-papad,Zen,pakka-papad/Zen,https://github.com/pakka-papad/Zen,music,music,music,242,19,Kotlin,2022-09-20T21:08:36Z,2025-09-19T23:32:18Z,main,https://api.github.com/repos/pakka-papad/Zen/zipball/main,5,2025-01-26T18:47:54+00:00,TRUE,TRUE,main,app/src/main/AndroidManifest.xml,TRUE,10K+,4.4,4.4,5,2025-01-26T18:47:54+00:00,com.github.pakka_papad,0,Music & Audio,"Zen Music is a stylish, powerful, and fast music player designed for the ultimate offline listening experience. Enjoy your entire local music library with superior sound quality, all without needing an internet connection. With a clean, beautiful user interface and a focus on simplicity, Zen Music provides the perfect way to listen to your favorite songs on your Android device. You deserve a great music player, and it's here for free!
+
+🎵 High-Quality Sound & Powerful Equalizer
+Experience your music like never before! Our built-in equalizer features bass boost and multiple presets (Rock, Pop, Jazz, Classical, etc.). Take full control and customize the sound to match your personal taste for a truly professional audio experience.
+
+🎨 Beautiful & Customizable User Interface
+Enjoy your music with a clean, stylish, and intuitive Material You UI. Personalize your experience by choosing from multiple color schemes. Zen Music is designed to be elegant and easy to use, making your music journey a visual delight. A “Just Black” mode is available for truly black backgrounds on OLED/AMOLED screens.
+
+📂 Effortless Music Management
+Zen Music automatically scans and organizes all your local audio files. Easily browse and play your music by songs, albums, artists, genres, folders, or your own custom playlists. Finding and managing your favorite tracks has never been simpler.
+
+🌐 Speaks Your Language
+Zen Music supports multiple languages, including English, German, Spanish, Filipino, French, Indonesian, Japanese, Korean, Malay, Polish, Portuguese, Russian, Thai, and Vietnamese.
+
+Key Features:
+✅ Plays All Formats: Full support for all major audio formats (MP3, WAV, FLAC, etc.).
+✅ Totally Offline: Listen to your music anywhere, anytime, without needing Wi-Fi or data.
+✅ Powerful Equalizer: 5-band equalizer with bass boost and 10+ professional presets.
+✅ Playlist Management: Create, edit, and manage your own custom playlists.
+✅ Synced Lyrics: Sing along to your favorite songs! Supports automatic searching for .lrc files and allows you to adjust the timing for perfect synchronization.
+✅ Playback Speed & Pitch: Adjust the playback speed and pitch of your music to your liking.
+✅ Exclude Folders & Songs: Easily hide any songs or folders you don't want to see in your library.
+✅ Sleep Timer: Fall asleep to your favorite music without draining your battery.
+✅ Home Screen Widgets: Control your music directly from your home screen with our stylish widgets.
+✅ Notification Controls: Manage playback, pause, and skip tracks from the notification bar.
+✅ Headset/Bluetooth Support: Full control via your wired or Bluetooth headphones.
+✅ Browse by Folder: A simple and effective way to access your music library.
+✅ Quick Search: Instantly find any song, artist, or album in your library.
+
+Please Note: Zen Music is an offline music player for local audio files. It does not support online streaming or music downloading.
+
+We hope you have a wonderful time and enjoy your music with Zen Music!
+
+Have any ideas or suggestions? We'd love to hear from you! Please feel free to contact us at music.zen@outlook.com.",8,2025-01-26T18:47:54+00:00,8,2025-01-26T18:47:54+00:00,0,,0,

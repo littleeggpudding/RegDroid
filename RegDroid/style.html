@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title></title>
+  <style>
+  #menu{
+    width: 100%;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+  }
+  #menu li{
+    text-decoration: none; 
+    display:inline-block;
+    box-sizing: border-box;
+    width:250px;
+    margin-right:20px;
+  }
+  .img{
+    width: 250px;
+    height: 400px;
+    white-space: nowrap;
+    object-fit: contain;
+  }
+  .event-container {
+    width: 100%;
+    padding: 10px;
+    background-color: #f5f5f5;
+    border-radius: 5px;
+    font-size: 12px;
+  }
+  .event-container ul {
+    margin: 0;
+    padding-left: 20px;
+  }
+  .event-container li {
+    display: list-item !important; /* 覆盖父级样式 */
+    width: auto !important; /* 覆盖父级样式 */
+    margin: 5px 0 !important;
+    white-space: normal;
+    word-wrap: break-word;
+  }
+  </style>
+</head>
+
+
+<body>
+  <ul id="menu"></ul>
+</body>
+
+</html>

@@ -28,8 +28,8 @@ env/
 *.tmp
 *.bak
 
-# Exclude everything except specific file types
-*
+# Include specific directories and file types
+!RegDroid/
 !*.py
 !*.sh
 !*.csv
