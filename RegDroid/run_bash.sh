@@ -4,8 +4,8 @@ export ANDROID_SDK_ROOT=$ANDROID_HOME
 export PATH=$ANDROID_HOME/cmdline-tools/latest/bin:$PATH
 export PATH=$PATH:$ANDROID_HOME/platform-tools:$ANDROID_HOME/emulator
 
-OUTPUT_BASE="/data/a/shiwensong/RegDroid/Output/app.familygem"
-CSV_FILE="./select_apks/app.familygem.csv"
+OUTPUT_BASE="/data/shiwensong/RegDroid/Output/it.feio.android.omninotes"
+CSV_FILE="./select_apks/it.feio.android.omninotes_0.csv"
 APPS_LOG_FILE="./apps_test_log_$(date +%Y%m%d_%H%M%S).txt"
 TEMP_NEW_APP_DIR=$(mktemp -d)
 
@@ -27,7 +27,7 @@ run_tests() {
         return 1
     fi
 
-    local BASE_APP_PATH="./select_apks/app.familygem/${BASE_APP}"
+    local BASE_APP_PATH="./select_apks/it.feio.android.omninotes/${BASE_APP}"
 
     echo "===== Run with base: $BASE_APP ====="
     echo "Base App: ${BASE_APP}" >> "$APPS_LOG_FILE"
@@ -38,7 +38,7 @@ run_tests() {
     # 清空临时目录并复制新 app
     rm -f "$TEMP_NEW_APP_DIR"/*
     for new_app in "${NEW_APPS[@]}"; do
-        cp "./select_apks/app.familygem/${new_app}" "$TEMP_NEW_APP_DIR/"
+        cp "./select_apks/it.feio.android.omninotes/${new_app}" "$TEMP_NEW_APP_DIR/"
     done
 
     # 启动测试

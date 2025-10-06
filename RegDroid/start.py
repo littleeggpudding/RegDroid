@@ -52,7 +52,7 @@ def parse_args():
                         help="System of the device")
     parser.add_argument("-root_path", action="store", dest="root_path", required=False, default="../Output/",
                         help="Output path")
-    parser.add_argument("-emulator_name", action="store", dest="emulator_name", required=False, default="Pixel_XL_API_26",
+    parser.add_argument("-emulator_name", action="store", dest="emulator_name", required=False, default="Pixel_XL_API_29",
                         help="the emulator name")
     parser.add_argument("-resource_path", action="store", dest="resource_path", required=False, default="Document/",
                         help="Resource path")

@@ -51,6 +51,7 @@ class Device(object):
         self.notification = True
         self.permission = True
         self.hourformat = "12h"
+        self.app = None
 
     def set_strategy(self, strategy):
         self.strategy = strategy
@@ -257,6 +258,7 @@ class Device(object):
 
     def start_app(self, app):
         # 启动应用
+        print(f"Starting app: {app.package_name}/{app.main_activity}")
         subprocess.run(
             [
                 "adb",

@@ -10,10 +10,10 @@ export PATH=$PATH:$ANDROID_HOME/platform-tools
 export PATH=$PATH:$ANDROID_HOME/emulator
 
 # ===== 配置 =====
-AVD_NAME="Android10.0"
-# AVD_NAME="Pixel_XL_API_29"
+# AVD_NAME="Android8.0"
+AVD_NAME="Pixel_XL_API_29"
 START_PORT=5554
-NUM_EMULATORS=10
+NUM_EMULATORS=2
 LOG_DIR="./emulator_logs"
 MAX_RETRY=3   # 每个模拟器最多重试次数
 

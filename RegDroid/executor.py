@@ -95,6 +95,7 @@ class Executor(object):
             rest_interval=rest_interval,
             choice=choice,
         )
+        
 
         self.checker = Checker(
             devices=devices,
@@ -186,11 +187,11 @@ class Executor(object):
             elif event.action == "leftscreen":
                 device.use.set_orientation("l")
             elif event.action == "start":
-                device.start_app(self.app)
+                device.start_app(device.app)
             elif event.action == "stop":
-                device.stop_app(self.app)
+                device.stop_app(device.app)
             elif event.action == "clear":
-                device.clear_app(self.app, self.is_login_app)
+                device.clear_app(device.app, self.is_login_app)
             elif event.action == "restart":
                 device.restart(self.emulator_path, self.emulator_name)
             else:
@@ -351,7 +352,7 @@ class Executor(object):
 
     def start_app(self, event_count):
         for device in self.devices:
-            args = (self.app,)
+            args = (device.app,)
             device.set_thread(device.start_app, args)
         self.utils.start_thread()
 
@@ -369,7 +370,7 @@ class Executor(object):
 
     def clear_app(self, event_count):
         for device in self.devices:
-            device.clear_app(self.app, self.is_login_app)
+            device.clear_app(device.app, self.is_login_app)
             device.use.set_orientation("n")
 
         for device in self.guest_devices:
@@ -391,7 +392,7 @@ class Executor(object):
         # print("clear_and_restart_app 1 ")
         start_time = time.time()
         for device in self.devices:
-            device.clear_app(self.app, self.is_login_app)
+            device.clear_app(device.app, self.is_login_app)
             device.use.set_orientation("n")
         for device in self.guest_devices:
             device.error_event_lists.clear()
@@ -411,7 +412,7 @@ class Executor(object):
         self.checker.check_keyboard()
 
         for device in self.devices:
-            args = (self.app,)
+            args = (device.app,)
             device.set_thread(device.start_app, args)
 
         self.utils.start_thread()
@@ -437,8 +438,8 @@ class Executor(object):
         time.sleep(self.rest_interval * 1)
         if not self.checker.check_foreground():
             for device in self.devices:
-                device.stop_app(self.app)
-                args = (self.app,)
+                device.stop_app(device.app)
+                args = (device.app,)
                 device.set_thread(device.start_app, args)
             self.utils.start_thread()
             self.checker.check_start(1, strategy)
@@ -697,11 +698,11 @@ class Executor(object):
             for i, device in enumerate(self.devices):
                 device.connect()
                 if i < len(self.app_path):
-                    device.install_app(self.app_path[i], self.app)
+                    device.install_app(self.app_path[i], device.app)
                     print(f"Installed app {self.app_path[i]} on device {device.device_serial}")
                 else:
                     # 如果设备数量超过应用数量，使用最后一个应用
-                    device.install_app(self.app_path[-1], self.app)
+                    device.install_app(self.app_path[-1], device.app)
                     print(f"Installed app {self.app_path[-1]} on device {device.device_serial} (fallback)")
 
             end_time = time.time()
@@ -803,8 +804,8 @@ class Executor(object):
             # print(f"2.clear_and_restart_app time: {end_time - now_start_time} seconds")
 
             for device in self.devices:
-                print(f"debug skip_welcome1: {self.app.package_name}")
-                device.skip_welcome(self.app.package_name)
+                print(f"debug skip_welcome1: {device.app.package_name}")
+                device.skip_welcome(device.app.package_name)
 
             # 处理连续的权限弹窗
             permission_texts = ["OK", "ALLOW", "允许", "确定", "继续",  "GRANT", "Get Started"]

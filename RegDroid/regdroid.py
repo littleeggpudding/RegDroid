@@ -102,6 +102,9 @@ class RegDroid(object):
                 is_emulator=is_emulator,
                 device_num=i,
                 rest_interval=rest_interval)
+             # 为每个 device 创建对应的 app 对象
+            device.app = App(app_path[i], root_path, app_name)
+            print(f"Device {i}: Package Name = {device.app.package_name}, Main Activity = {device.app.main_activity}")
             self.devices.append(device)
             i = i+1
 
@@ -191,7 +194,7 @@ class RegDroid(object):
             print("Regdroid start 2 ")
             for i, device in enumerate(self.devices):
                 # device.connect()
-                device.install_app(self.app_path[i], self.app)  # 每个设备安装对应版本
+                device.install_app(self.app_path[i], device.app)  # 使用当前设备的 app 对象
         else:
             for device in self.devices:
                 device.restart(self.emulator_path, self.emulator_name)

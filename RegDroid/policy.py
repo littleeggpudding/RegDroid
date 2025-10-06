@@ -114,7 +114,7 @@ class RandomPolicy(Policy):
         # click_package_lists=[self.app.package_name,"android","com.android.settings","com.google.android",
         # "com.google.android.inputmethod.latin","com.google.android.permissioncontroller","com.android.packageinstaller","com.android.permissioncontroller","com.google.android.packageinstaller"]
         # delete keyboard
-        click_package_lists = [self.app.package_name, "android", "com.android.settings", "com.google.android",
+        click_package_lists = [device.app.package_name, "android", "com.android.settings", "com.google.android",
                                "com.google.android.permissioncontroller", "com.android.packageinstaller", "com.android.permissioncontroller", "com.google.android.packageinstaller"]
         # print(f"random:{event_type}")
         if event_type < self.pro_click:
@@ -129,7 +129,7 @@ class RandomPolicy(Policy):
                 if view.className in click_classname_lists and view.package in click_package_lists and view.clickable == "true":
                     views.append(view)
                 # fix Focus item clickable = false
-                if "focus" in self.app.package_name:
+                if "focus" in device.app.package_name:
                     focus_list = ["android.widget.RadioButton", "android.widget.ImageView", "android.widget.View", "android.widget.CheckBox", "android.widget.Button", "android.widget.Switch",
                                   "android.widget.ImageButton", "android.widget.TextView", "android.widget.CheckedTextView", "android.widget.TableRow", "android.widget.EditText", "android.support.v7.widget.ar"]
                     if view.className in focus_list and view.package in click_package_lists and view.clickable == "false":
