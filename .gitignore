@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+.env
+.venv
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Specific exclusions
+*.apk
+*.dex
+*.class
+*.tmp
+*.bak
+
+# Exclude everything except specific file types
+*
+!*.py
+!*.sh
+!*.csv
+!*.log
+!.gitignore
+!README.md
+!requirements.txt
